@@ -1,0 +1,72 @@
+address       propTag   tnefId typeId
+-------       -------   ------ ------
+7FFC63685BB4h 1000001Eh 2800Ch 0
+7FFC63685BC0h 390040h   38005h 0
+7FFC63685BCCh B0102h    1800Bh 2h
+7FFC63685BD8h 610040h   30007h 0
+7FFC63685BE4h 30080040h 38020h 0
+7FFC63685BF0h 1A001Eh   78008h 1h
+7FFC63685BFCh E060040h  38006h 0
+7FFC63685C08h E070003h  68007h 3h
+7FFC63685C14h E12000Dh  69004h 8h
+7FFC63685C20h 4B001Eh   70006h 1h
+7FFC63685C2Ch 620003h   50008h 0
+7FFC63685C38h 250102h   1800Ah 2h
+7FFC63685C44h 170003h   4800Dh 4h
+7FFC63685C50h 430102h   60000h Ah
+7FFC63685C5Ch 63000Bh   40009h 0
+7FFC63685C68h 300B0102h 18009h 2h
+7FFC63685C74h C190102h  8000h  9h
+7FFC63685C80h 410102h   60000h Ah
+7FFC63685C8Ch 410102h   60001h Ah
+7FFC63685C98h 600040h   30006h 0
+7FFC63685CA4h 37001Eh   18004h 0
+7FFC63685CB0h 7E0102h   60002h Eh
+7FFC63685CBCh 0         89006h Ch
+7FFC63685CC8h 0         69003h 7h
+7FFC63685CE4h 37010102h 6800Fh 6h
+7FFC63685CF0h 3701000Dh 6800Fh 6h
+7FFC63685CFCh 3704001Eh 18010h 0
+7FFC63685D08h 37090102h 68011h 0
+7FFC63685D14h 370C001Eh 69001h Bh
+7FFC63685D20h 30070040h 38012h 0
+7FFC63685D2Ch 30080040h 38013h 0
+7FFC63685D38h 0         69005h 7h
+7FFC63685D44h 0         69002h 5h
+
+
+
+TnefValue                               	typeId	MapiPropTag
+Attachment Rendering Data               	    5	None
+Message Status                          	    3	MAPI: MAPI_MESSAGE_FLAGS: MAPI integer (signed 32 bits)
+Sent For                                	   10	MAPI: MAPI_SENT_REPRESENTING_ENTRYID: MAPI binary
+Attachment Data                         	    6	MAPI: MAPI_ATTACH_DATA_OBJ: MAPI embedded object
+Recipients                              	    8	MAPI: MAPI_MESSAGE_RECIPIENTS: MAPI embedded object
+Date Start                              	    0	MAPI: MAPI_START_DATE: MAPI time (64 bits)
+Attachment Meta File                    	    0	MAPI: MAPI_ATTACH_RENDERING: MAPI binary
+Date Start                              	    1	MAPI: MAPI_ORIG_MESSAGE_CLASS: MAPI string
+Subject                                 	    0	MAPI: MAPI_SUBJECT: MAPI string
+Owner Appointment ID                    	    0	MAPI: MAPI_OWNER_APPT_ID: MAPI integer (signed 32 bits)
+Attachment Creation Date                	    0	MAPI: MAPI_CREATION_TIME: MAPI time (64 bits)
+Delegate                                	   14	MAPI: MAPI_DELEGATION: MAPI binary
+Body                                    	    0	MAPI: MAPI_BODY: MAPI string
+Parent ID                               	    2	MAPI: MAPI_PARENT_KEY: MAPI binary
+TNEF Version                            	   12	None
+Attachment                              	    7	None
+Date Sent                               	    0	MAPI: MAPI_CLIENT_SUBMIT_TIME: MAPI time (64 bits)
+Priority                                	    4	MAPI: MAPI_IMPORTANCE: MAPI integer (signed 32 bits)
+Attachment Data                         	    6	MAPI: MAPI_ATTACH_DATA_OBJ: MAPI binary
+MAPI Properties                         	    7	None
+Conversation ID                         	    2	MAPI: MAPI_CONVERSATION_KEY: MAPI binary
+Owner                                   	   10	MAPI: MAPI_RCVD_REPRESENTING_ENTRYID: MAPI binary
+Attachment File Name                    	    0	MAPI: MAPI_ATTACH_FILENAME: MAPI string
+Date End                                	    0	MAPI: MAPI_END_DATE: MAPI time (64 bits)
+Response Requested                      	    0	MAPI: MAPI_RESPONSE_REQUESTED: MAPI boolean (16 bits)
+Date Modified                           	    0	MAPI: MAPI_LAST_MODIFICATION_TIME: MAPI time (64 bits)
+Attachment Transport Filename           	   11	MAPI: MAPI_ATTACH_TRANSPORT_NAME: MAPI string
+Message ID                              	    2	MAPI: MAPI_SEARCH_KEY: MAPI binary
+Message Class                           	    1	MAPI: MAPI_MESSAGE_CLASS: MAPI string
+From                                    	    9	MAPI: MAPI_SENDER_ENTRYID: MAPI binary
+Attachment Modification Date            	    0	MAPI: MAPI_LAST_MODIFICATION_TIME: MAPI time (64 bits)
+Date Received                           	    0	MAPI: MAPI_MESSAGE_DELIVERY_TIME: MAPI time (64 bits)
+Owner                                   	   10	MAPI: MAPI_SENT_REPRESENTING_ENTRYID: MAPI binary

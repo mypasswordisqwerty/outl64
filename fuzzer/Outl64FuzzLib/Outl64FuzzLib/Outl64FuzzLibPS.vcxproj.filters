@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{3cfb31e7-a8cd-4552-80e4-63fe39fce03f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Созданные файлы">
+      <UniqueIdentifier>{b3f380dd-cdf6-41de-a795-a1ddee0b2669}</UniqueIdentifier>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Outl64FuzzLibps.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dlldata.c">
+      <Filter>Созданные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Outl64FuzzLib_i32.c">
+      <Filter>Созданные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Outl64FuzzLib_p32.c">
+      <Filter>Созданные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="Outl64FuzzLib.idl">
+      <Filter>Исходные файлы</Filter>
+    </Midl>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+ipch
+*.VC.*
+*.pdb
+*.ilk
+*.user
+*.aps
+obj
+x64
+Debug*
+Release*
+*.vshost.*
+*.sql
+*.sqlite

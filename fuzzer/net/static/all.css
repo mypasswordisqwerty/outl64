@@ -1,0 +1,32 @@
+nav {
+border-bottom: 1px #888899 solid;
+padding-bottom: 10px
+}
+
+nav a {
+color: #888899;
+text-decoration: none;
+background: #f7f7f9;
+border: 1px #bbbbcc solid;
+border-bottom: none;
+padding: 10px 14px
+}
+
+nav a.selected {
+color: #555566;
+background: #ffffff;
+border: 1px #888899 solid;
+border-bottom: 1px #ffffff solid;
+padding: 10px 14px 10px 14px
+}
+
+header {
+    height: 50px;
+    width: 100%;
+    color: #888899;
+    background: #f7f7f9;
+}
+
+.offline{
+    color: red;
+}

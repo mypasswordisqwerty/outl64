@@ -1,0 +1,34 @@
+HKCR
+{
+	Outl64FuzzLib.MapiFuzz.1 = s 'MapiFuzz Class'
+	{
+		CLSID = s '{2FD04774-5788-4BBA-B925-71AFBC0A38C7}'
+	}
+	Outl64FuzzLib.MapiFuzz = s 'MapiFuzz Class'
+	{
+		CurVer = s 'Outl64FuzzLib.MapiFuzz.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {2FD04774-5788-4BBA-B925-71AFBC0A38C7} = s 'MapiFuzz Class'
+		{
+			val 'AppID' = s '{845686C0-14C7-11E7-99CF-0800270D9A0B}'
+			ProgID = s 'Outl64FuzzLib.MapiFuzz.1'
+			VersionIndependentProgID = s 'Outl64FuzzLib.MapiFuzz'
+			ForceRemove Programmable
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Both'
+			}
+			TypeLib = s '{E8FBB04D-8A6F-4517-B6EB-6FC7033DF2B5}'
+			Version = s '1.0'
+		}
+	}
+	NoRemove AppID
+	{
+		ForceRemove {845686C0-14C7-11E7-99CF-0800270D9A0B} = s 'Outl64FuzzApp'
+		{
+			val 'DllSurrogate' = s ''
+		}
+	}
+}

@@ -1,0 +1,27 @@
+xls,xslx - UM excel - error
+ppt, pptx - UM ppoint - closed
+pdf - UM areader - closed
+docx, doc - UM word - closed
+
+
+-=auto=-
+xlsx, xsl, xslm, xltx, xlt, xltm, xslb, ods - excel
+pptx, pptm, ppt, ppsx, ppsm, pps, potx, potm, pot, odp - ppoint
+odt, dotm, dotx, dot, docx, docm, doc - word
+wtx, scp, psm1, psd1, log, exc, dic, compositefont - text outlook
+wmf, tif, tiff, png, jpg, jpeg, jpe, jfif, gif, emf, dib, bmp - img outlook
+vcf - card outlook
+
+
+-=confirm=-
+xsl, xml, x, wiq, vstemplate, vsixmanifest, vsixlangpack, vshader, vsh, vsct, tsx, txt, tt, tsv, ts, tli, tlh, text, sql, srf, shtml, sed, s, rgs, resjson, rct, rc2, rc, pyproj, pssc, pshader, psh, pkgundef, pkgdef, php3, odl, odh, nvr, natvis, mk, mdp, map, mak, lst, java, inl, ini, inc, idl, i, hxx, hshader, hpp, hsh, gshader, hlsli, hlsl, h, hh, gsh, fx, dsw, dsp, dshader, dsh, diz, cs, def, cur, cxx, datasource, csv, css, cshader, cpp, cod, cd, cdxml, cc, aspx, asmx, asm  - text outlook
+xps, pano, oxps, jtx, eprtx, edrwx, easmx, dwfx - xps view
+wtv, snd, rmi, mpg, mpeg, mpe, mp2v, mp2, midi, mid, m2v, m1v, dvr-ms, au, asf, aiff, aifc, aif, 3gp2 - mediaplayer
+ttc, ttf, pfm, otf, fon - fontview
+rtf - outlook richtext
+pdf - acrobat reader
+mht, mhtml, html, htm - webview
+3mf - ?
+
+-=block=-
+xll, xbap, wsf, wsh, wsc, vbs, vbe, vb, url, sct, scr, scf, reg, pst, psc1, ps1xml, ps1, prf, pl, plg, pif, msp, msi, msc, lnk, jse, js, jnlp, jar, inf, hta, grp, hlp, exe, der, csh, crt, cpl, cmd, com, chm, cer, asp, bat, bas

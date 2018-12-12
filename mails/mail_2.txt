@@ -1,0 +1,15 @@
+From: {m[from]}
+To: {m[to]}
+Subject: =?utf-8?B?{m[subject]}?=
+Date: {m[date]}
+MIME-Version: 1.0
+Content-Type: application/mac-binhex40; charset="utf-8"; value1="value 1 attr
+	"; value2=none
+
+begin 001
+:
+Simple mail askdjfkshdfkjsdhfksjdfhksjdfhkjsdhfksjdhfkjsdhfskdjfh
+:
+end 001
+
+

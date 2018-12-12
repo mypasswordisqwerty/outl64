@@ -1,0 +1,9 @@
+From: {m[from]}
+To: {m[to]}
+Subject: {m[subject]}
+Date: {m[date]}
+MIME-Version: 1.0
+Content-Type: application/x-shockwave-flash
+COntent-Transfer-Encoding: base64
+
+{m[file__test.swf__base64]}

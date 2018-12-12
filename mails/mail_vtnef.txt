@@ -1,0 +1,32 @@
+From: {m[from]}
+To: {m[to]}
+Subject: {m[subject]}
+Date: {m[date]}
+Message-ID: <000001d354bf$c7354480$559fcd80$@192.168.56.13>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0001_01D354D8.EC827C80"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdNUv7v3EcD90esaSAOxNnGLDuVfqg==
+Content-Language: ru
+X-MS-TNEF-Correlator: 00000000D5E1AF7238176847BDACBB79F473A78084885E19
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01D354D8.EC827C80
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Rtf Body
+
+------=_NextPart_000_0001_01D354D8.EC827C80
+Content-Type: application/ms-tnef;
+	name="winmail.dat"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="winmail.dat"
+
+{m[file__body.tnef__base64]}
+------=_NextPart_000_0001_01D354D8.EC827C80--
+

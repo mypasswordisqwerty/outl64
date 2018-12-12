@@ -1,0 +1,277 @@
+Copy props from ITnef to IMessage:
+
+-- Exploring object This of type IMessage * = 0x1f1ece91848L:
+-- Exploring object this of type IMAPIProp * = 0x1f1ece91840L:
+
+
+0: type 0x80380102L TNEF: UNKNOWN: MAPI binary = 50004F0050003A002F002F003100390032002E003100360038002E00350036002E00310033002F00340039000000 (P.O.P.:././.1.9.2...1.6.8...5.6...1.3./.4.9...)
+1: type 0x800e001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = 00000006
+2: type 0x800d001fL TNEF: Priority: MAPI unicode-string (null terminated) = user2@192.168.56.13 (1)
+3: type 0xe28001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = 00000006
+4: type 0xe29001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = 00000006
+
+
+0: type 0x3fde0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0xfde9L
+
+
+0: type 0x803e001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = application/ms-tnef; charset="utf-8"; name="winmail.dat"
+1: type 0x803d001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = base64
+2: type 0x1a001fL MAPI: MAPI_MESSAGE_CLASS: MAPI unicode-string (null terminated) = IPM.Note
+3: type 0x170003L MAPI: MAPI_IMPORTANCE: MAPI integer (signed 32 bits) = 0x1L
+4: type 0x3016000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+5: type 0x710102L MAPI: MAPI_CONVERSATION_INDEX: MAPI binary = 01022ACCC11C956AEC2D823C50F463B53F4D509D2DF7 (..*¦+.Хjь-В<PЇc¦?MPЭ-ў)
+6: type 0x803c0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x1L
+7: type 0xc1a001fL MAPI: MAPI_SENDER_NAME: MAPI unicode-string (null terminated) = user1
+8: type 0xc1f001fL MAPI: MAPI_SENDER_EMAIL_ADDRESS: MAPI unicode-string (null terminated) = user1@192.168.56.13
+9: type 0xc190102L MAPI: MAPI_SENDER_ENTRYID: MAPI binary = 00000000812B1FA4BEA310199D6E00DD010F54020000018075007300650072003100000053004D005400500000007500730065007200310040003100390032002E003100360038002E00350036002E00310033000000 (....Б+.д-г..Эn.¦..T....Аu.s.e.r.1...S.M.T.P...u.s.e.r.1.@.1.9.2...1.6.8...5.6...1.3...)
+10: type 0xc1d0102L MAPI: MAPI_SENDER_SEARCH_KEY: MAPI binary = 534D54503A5553455231403139322E3136382E35362E313300 (SMTP:USER1@192.168.56.13.)
+11: type 0x1035001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = <D7E46DCA-4F79-40EB-88E3-400ED227600B@MSEDGEWIN10>
+12: type 0x1046001fL TNEF: UNKNOWN: MAPI unicode-string (null terminated) = user1@192.168.56.13
+13: type 0x390040L MAPI: MAPI_CLIENT_SUBMIT_TIME: MAPI time (64 bits) = 0x1d2b1d65edfab00L
+14: type 0xe060040L MAPI: MAPI_MESSAGE_DELIVERY_TIME: MAPI time (64 bits) = 0x1d2b1d65f784180L
+15: type 0x37001fL MAPI: MAPI_SUBJECT: MAPI unicode-string (null terminated) = 1
+16: type 0x70001fL MAPI: MAPI_CONVERSATION_TOPIC: MAPI unicode-string (null terminated) = 1
+17: type 0x64001fL MAPI: MAPI_SENT_REPRESENTING_ADDRTYPE: MAPI unicode-string (null terminated) = SMTP
+18: type 0x42001fL MAPI: MAPI_SENT_REPRESENTING_NAME: MAPI unicode-string (null terminated) = user1
+19: type 0x65001fL MAPI: MAPI_SENT_REPRESENTING_EMAIL_ADDRESS: MAPI unicode-string (null terminated) = user1@192.168.56.13
+20: type 0x410102L MAPI: MAPI_SENT_REPRESENTING_ENTRYID: MAPI binary = 00000000812B1FA4BEA310199D6E00DD010F54020000018075007300650072003100000053004D005400500000007500730065007200310040003100390032002E003100360038002E00350036002E00310033000000 (....Б+.д-г..Эn.¦..T....Аu.s.e.r.1...S.M.T.P...u.s.e.r.1.@.1.9.2...1.6.8...5.6...1.3...)
+21: type 0x3b0102L MAPI: MAPI_SENT_REPRESENTING_SEARCH_KEY: MAPI binary = 534D54503A5553455231403139322E3136382E35362E313300 (SMTP:USER1@192.168.56.13.)
+22: type 0xc1e001fL MAPI: MAPI_SENDER_ADDRTYPE: MAPI unicode-string (null terminated) = SMTP
+
+
+-- Exploring object This of type IMessage * = 0x1f1ece906e8L:
+-- Exploring object this of type IMAPIProp * = 0x1f1ece906e0L:
+
+
+0: type 0x3707001fL MAPI: MAPI_ATTACH_LONG_FILENAME: MAPI unicode-string (null terminated) = winmail.dat
+1: type 0x3704001fL MAPI: MAPI_ATTACH_FILENAME: MAPI unicode-string (null terminated) = winmail.dat
+2: type 0x370a0102L MAPI: MAPI_ATTACH_TAG: MAPI binary = 2A864886F714030A04 (*ЖHЖў....)
+3: type 0x370e001fL MAPI: MAPI_ATTACH_MIME_TAG: MAPI unicode-string (null terminated) = application/ms-tnef
+4: type 0x37050003L MAPI: MAPI_ATTACH_METHOD: MAPI integer (signed 32 bits) = 0x1L
+5: type 0x370b0003L MAPI: MAPI_RENDERING_POSITION: MAPI integer (signed 32 bits) = 0xffffffffL
+6: type 0x37100003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+
+
+HRESULT __stdcall MapiTnef::ExtractProps(MapiTnef *This, ULONG ulFlags, SPropTagArray *lpPropList, STnefProblemArray **lpProblems)
+Exploring object This of type MapiTnef * = 0x1f1f29d2040L:
+Exploring object ulFlags of type ULONG = 0x182L:
+Exploring object lpPropList of type SPropTagArray * = 0x7ffc6a0dab70L:
+count:103
+[150040, 170003, 23000B, 220102, 240102, 300040, 360003, 37001E, 390040, 3B0102, 3D001F, 3F0102, 40001E, 410102, 42001E, 430102, 44001E, 460102, 4F0102, 50001E, 510102, 520102, 57000B, 58000B, 59000B, 64001E, 65001E, 75001E, 76001E, 77001E, 78001E, 7D001E, 83101F, 84101F, 85001F, C090102, C190102, C1A001E, C1D0102, C1E001E, C1F001E, E02001E, E03001E, E04001E, E05001E, E070003, E060040, E080003, E090102, E12000D, E1B000B, E1D001E, E2B0003, E2C0102, E2D0102, E9C0102, FF40003, FF70003, FF90102, FFB0102, FFF0102, 1000001E, 10020102, 10130102, 1030001F, 1031001F, 1032001F, 1033001E, 10340003, 1035001E, 1037001E, 1038001E, 1039001E, 1042001F, 1043001F, 1044001F, 1045001F, 10800003, 10900003, 10910040, 10950003, 10960003, 3004001E, 30070040, 30080040, 300B0102, 40760003, 4083001F, 6E010003, 0001, 801F001F, 80360003, 804C001E, 800D001E, 800E001E, 80AA0040, 80AB001F, 80AC001F, 80400003, 80BA0040, 80410003, 80420003, 80BF001F]
+
+
+--Exploring object This of type IMessage * = 0x1f1ece91848L:
+--Exploring object this of type IMAPIProp * = 0x1f1ece91840L:
+
+//TnefFields
+Exploring object props of type LPSPropValue = 0x2945a6604e0L:
+0: type 0x2000bL MAPI: MAPI_ALTERNATE_RECIPIENT_ALLOWED: MAPI boolean (16 bits) = 0x1L
+1: type 0x1L TNEF: Owner: MAPI null property =
+2: type 0x1a001eL MAPI: MAPI_MESSAGE_CLASS: MAPI string = IPM.Appointment
+3: type 0x1L TNEF: Owner: MAPI null property =
+4: type 0x260003L MAPI: MAPI_PRIORITY: MAPI integer (signed 32 bits) = 0x0L
+5: type 0x29000bL MAPI: MAPI_READ_RECEIPT_REQUESTED: MAPI boolean (16 bits) = 0x0L
+6: type 0x1L TNEF: Owner: MAPI null property =
+7: type 0x1L TNEF: Owner: MAPI null property =
+8: type 0x1L TNEF: Owner: MAPI null property =
+9: type 0x1L TNEF: Owner: MAPI null property =
+10: type 0x1L TNEF: Owner: MAPI null property =
+11: type 0x1L TNEF: Owner: MAPI null property =
+12: type 0x63000bL MAPI: MAPI_RESPONSE_REQUESTED: MAPI boolean (16 bits) = 0x1L
+13: type 0x1L TNEF: Owner: MAPI null property =
+14: type 0x1L TNEF: Owner: MAPI null property =
+15: type 0x70001eL MAPI: MAPI_CONVERSATION_TOPIC: MAPI string = Pfingstmontag
+16: type 0x710102L MAPI: MAPI_CONVERSATION_INDEX: MAPI binary = 01C633A3C412312D5138F8B049B99C6C79EF3B38C5EC (.¦3г-.1-Q8°-I¦Ьlyя;8+ь)
+17: type 0xc17000bL MAPI: MAPI_REPLY_REQUESTED: MAPI boolean (16 bits) = 0x1L
+18: type 0x1L TNEF: Owner: MAPI null property =
+19: type 0x1L TNEF: Owner: MAPI null property =
+20: type 0x1L TNEF: Owner: MAPI null property =
+21: type 0x1L TNEF: Owner: MAPI null property =
+22: type 0x1L TNEF: Owner: MAPI null property =
+23: type 0xe01000bL MAPI: MAPI_DELETE_AFTER_SUBMIT: MAPI boolean (16 bits) = 0x0L
+24: type 0x1L TNEF: Owner: MAPI null property =
+25: type 0x1L TNEF: Owner: MAPI null property =
+26: type 0x1L TNEF: Owner: MAPI null property =
+27: type 0x1L TNEF: Owner: MAPI null property =
+28: type 0x1L TNEF: Owner: MAPI null property =
+29: type 0x1L TNEF: Owner: MAPI null property =
+30: type 0x1L TNEF: Owner: MAPI null property =
+31: type 0x65400003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+32: type 0x8015000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+33: type 0x8001000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+34: type 0x80040040L TNEF: Subject: MAPI time (64 bits) = 0x1c32e094e50b000L
+35: type 0x80050040L TNEF: Date Sent: MAPI time (64 bits) = 0x1c32ed278ba7000L
+36: type 0x80440003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x5a0L
+37: type 0x8018001eL TNEF: UNKNOWN: MAPI string = Deutschland
+38: type 0x80000003L TNEF: From: MAPI integer (signed 32 bits) = 0x0L
+39: type 0x80450003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+40: type 0x8020000bL TNEF: Date Modified: MAPI boolean (16 bits) = 0x1L
+41: type 0x802d0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x171L
+42: type 0x803b000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+43: type 0x80250003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+44: type 0x1L TNEF: Owner: MAPI null property =
+45: type 0x80190040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32e094e50b000L
+46: type 0x801a0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x3cL
+47: type 0x801b0040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32e00ec8c4800L
+48: type 0x80460003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+49: type 0x8047001eL TNEF: UNKNOWN: MAPI string = None
+50: type 0x8048001eL TNEF: UNKNOWN: MAPI string = None
+51: type 0x8049000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+52: type 0x804a001eL TNEF: UNKNOWN: MAPI string = None
+53: type 0x804b001eL TNEF: UNKNOWN: MAPI string = None
+54: type 0x1L TNEF: Owner: MAPI null property =
+55: type 0x804d000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+56: type 0x804e0040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32e094e50b000L
+57: type 0x804f0040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32ed278ba7000L
+58: type 0x8050000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+59: type 0x80510003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+60: type 0x80520003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0xffffffffL
+61: type 0x80530003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+62: type 0x80540003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+63: type 0x80550003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+64: type 0x8056000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+65: type 0x80570003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+66: type 0x8058000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+67: type 0x80020003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+68: type 0x8059001eL TNEF: UNKNOWN: MAPI string = None
+69: type 0x8024001eL TNEF: UNKNOWN: MAPI string = (GMT+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
+70: type 0x80060040L TNEF: Date Received: MAPI time (64 bits) = 0x1c32e094e50b000L
+71: type 0x80070040L TNEF: Message Status: MAPI time (64 bits) = 0x1c32ed278ba7000L
+72: type 0x805a0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+73: type 0x805b000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+74: type 0x805c001eL TNEF: UNKNOWN: MAPI string = None
+75: type 0x805d0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+76: type 0x805e0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+77: type 0x802a101eL TNEF: UNKNOWN: UNKNOWN =
+78: type 0x1L TNEF: Owner: MAPI null property =
+79: type 0x1L TNEF: Owner: MAPI null property =
+80: type 0x1L TNEF: Owner: MAPI null property =
+81: type 0x1L TNEF: Owner: MAPI null property =
+82: type 0x1L TNEF: Owner: MAPI null property =
+83: type 0x1L TNEF: Owner: MAPI null property =
+84: type 0x1L TNEF: Owner: MAPI null property =
+85: type 0x1L TNEF: Owner: MAPI null property =
+86: type 0x1L TNEF: Owner: MAPI null property =
+87: type 0xff80102L MAPI: MAPI_MAPPING_SIGNATURE: MAPI binary = 1971D130FDC9C84BBF792E7E9057B8CB (.qT0¤гLK¬y.~РW¬T)
+88: type 0x1L TNEF: Owner: MAPI null property =
+89: type 0xffa0102L MAPI: MAPI_STORE_RECORD_KEY: MAPI binary = 1971D130FDC9C84BBF792E7E9057B8CB (.qT0¤гLK¬y.~РW¬T)
+90: type 0x1L TNEF: Owner: MAPI null property =
+91: type 0xffe0003L MAPI: MAPI_OBJECT_TYPE: MAPI integer (signed 32 bits) = 0x5L
+92: type 0x1L TNEF: Owner: MAPI null property =
+93: type 0x340d0003L MAPI: MAPI_STORE_SUPPORT_MASK: MAPI integer (signed 32 bits) = 0x237fdL
+94: type 0x34140102L MAPI: MAPI_MDB_PROVIDER: MAPI binary = 4E495441F9BFB80100AA0037D96E0000 (NITA•¬¬..к.7-n..)
+
+Exploring object props of type LPSPropValue = 0x2945a20ebd8L:
+0: type 0x805f000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+
+Exploring object props of type LPSPropValue = 0xd8d93ff590L:
+0: type 0x3f0102L MAPI: MAPI_RECEIVED_BY_ENTRYID: MAPI binary = 00000000812B1FA4BEA310199D6E00DD010F540200000000757365723200534D5450007573657232403139322E3136382E35362E313300 (....Б+.д-г..Эn.¦..T.....user2.SMTP.user2@192.168.56.13.)
+1: type 0x75001fL MAPI: MAPI_RECEIVED_BY_ADDRTYPE: MAPI unicode-string (null terminated) = SMTP
+2: type 0x76001fL MAPI: MAPI_RECEIVED_BY_EMAIL_ADDRESS: MAPI unicode-string (null terminated) = user2@192.168.56.13
+3: type 0x40001fL MAPI: MAPI_RECEIVED_BY_NAME: MAPI unicode-string (null terminated) = user2
+4: type 0x510102L MAPI: MAPI_RECEIVED_BY_SEARCH_KEY: MAPI binary = 534D54503A5553455232403139322E3136382E35362E313300 (SMTP:USER2@192.168.56.13.)
+
+Exploring object props of type LPSPropValue = 0x2945a1874f0L:
+0: type 0x802d0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x4171L
+
+
+
+
+
+//MyTnefFields
+Exploring object lpPropArray of type LPSPropValue = 0x210078b6d20L:
+0: type 0x2000bL MAPI: MAPI_ALTERNATE_RECIPIENT_ALLOWED: MAPI boolean (16 bits) = 0x1L
+1: type 0x170003L MAPI: MAPI_IMPORTANCE: MAPI integer (signed 32 bits) = 0x1L
+2: type 0x1a001eL MAPI: MAPI_MESSAGE_CLASS: MAPI string = IPM.Appointment
+3: type 0x23000bL MAPI: MAPI_ORIGINATOR_DELIVERY_REPORT_REQUESTED: MAPI boolean (16 bits) = 0x0L
+4: type 0x260003L MAPI: MAPI_PRIORITY: MAPI integer (signed 32 bits) = 0x0L
+5: type 0x29000bL MAPI: MAPI_READ_RECEIPT_REQUESTED: MAPI boolean (16 bits) = 0x0L
+6: type 0x360003L MAPI: MAPI_SENSITIVITY: MAPI integer (signed 32 bits) = 0x0L
+7: type 0x37001eL MAPI: MAPI_SUBJECT: MAPI string = Pfingstmontag
+8: type 0x390040L MAPI: MAPI_CLIENT_SUBMIT_TIME: MAPI time (64 bits) = 0x1c633a3c412f3a0L
+9: type 0x3b0102L MAPI: MAPI_SENT_REPRESENTING_SEARCH_KEY: MAPI binary = 534D54503A494E464F4053495445432D4F574C2E444500 (SMTP:INFO@SITEC-OWL.DE.)
+10: type 0x410102L MAPI: MAPI_SENT_REPRESENTING_ENTRYID: MAPI binary = 00000000812B1FA4BEA310199D6E00DD010F540200000000417262656974737369636865726865697420756E64204272616E6473636875747A746563686E696B2042726563686D616E6E00534D545000696E666F4073697465632D6F776C2E646500 (....Б+.д-г..Эn.¦..T.....Arbeitssicherheit und Brandschutztechnik Brechmann.SMTP.info@sitec-owl.de.)
+11: type 0x42001eL MAPI: MAPI_SENT_REPRESENTING_NAME: MAPI string = Arbeitssicherheit und Brandschutztechnik Brechmann
+12: type 0x63000bL MAPI: MAPI_RESPONSE_REQUESTED: MAPI boolean (16 bits) = 0x1L
+13: type 0x64001eL MAPI: MAPI_SENT_REPRESENTING_ADDRTYPE: MAPI string = SMTP
+14: type 0x65001eL MAPI: MAPI_SENT_REPRESENTING_EMAIL_ADDRESS: MAPI string = info@sitec-owl.de
+15: type 0x70001eL MAPI: MAPI_CONVERSATION_TOPIC: MAPI string = Pfingstmontag
+16: type 0x710102L MAPI: MAPI_CONVERSATION_INDEX: MAPI binary = 01C633A3C412312D5138F8B049B99C6C79EF3B38C5EC (.¦3г-.1-Q8°-I¦Ьlyя;8+ь)
+17: type 0xc17000bL MAPI: MAPI_REPLY_REQUESTED: MAPI boolean (16 bits) = 0x1L
+18: type 0xc190102L MAPI: MAPI_SENDER_ENTRYID: MAPI binary = 00000000812B1FA4BEA310199D6E00DD010F540200000000417262656974737369636865726865697420756E64204272616E6473636875747A746563686E696B2042726563686D616E6E00534D545000696E666F4073697465632D6F776C2E646500 (....Б+.д-г..Эn.¦..T.....Arbeitssicherheit und Brandschutztechnik Brechmann.SMTP.info@sitec-owl.de.)
+19: type 0xc1a001eL MAPI: MAPI_SENDER_NAME: MAPI string = Arbeitssicherheit und Brandschutztechnik Brechmann
+20: type 0xc1d0102L MAPI: MAPI_SENDER_SEARCH_KEY: MAPI binary = 534D54503A494E464F4053495445432D4F574C2E444500 (SMTP:INFO@SITEC-OWL.DE.)
+21: type 0xc1e001eL MAPI: MAPI_SENDER_ADDRTYPE: MAPI string = SMTP
+22: type 0xc1f001eL MAPI: MAPI_SENDER_EMAIL_ADDRESS: MAPI string = info@sitec-owl.de
+23: type 0xe01000bL MAPI: MAPI_DELETE_AFTER_SUBMIT: MAPI boolean (16 bits) = 0x0L
+24: type 0xe060040L MAPI: MAPI_MESSAGE_DELIVERY_TIME: MAPI time (64 bits) = 0x1c633a3c412f3a0L
+25: type 0xe070003L MAPI: MAPI_MESSAGE_FLAGS: MAPI integer (signed 32 bits) = 0x1L
+26: type 0xe080003L MAPI: MAPI_MESSAGE_SIZE: MAPI integer (signed 32 bits) = 0x2fdL
+27: type 0x10800003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x400L
+28: type 0x30070040L MAPI: MAPI_CREATION_TIME: MAPI time (64 bits) = 0x1c633a3c412f3a0L
+29: type 0x30080040L MAPI: MAPI_LAST_MODIFICATION_TIME: MAPI time (64 bits) = 0x1c633a3c412f3a0L
+30: type 0x300b0102L MAPI: MAPI_SEARCH_KEY: MAPI binary = 863DD9D72465EA4CB6078729199BF2CE (Ж=-+$eъL¦.З).ЫЄ+)
+31: type 0x65400003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+32: type 0x8010000bL TNEF: Attachment File Name: MAPI boolean (16 bits) = 0x0L
+33: type 0x8001000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+34: type 0x80040040L TNEF: Subject: MAPI time (64 bits) = 0x1c32e094e50b000L
+35: type 0x80050040L TNEF: Date Sent: MAPI time (64 bits) = 0x1c32ed278ba7000L
+36: type 0x80810003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x5a0L
+37: type 0x8059001eL TNEF: UNKNOWN: MAPI string = Deutschland
+38: type 0x80000003L TNEF: From: MAPI integer (signed 32 bits) = 0x0L
+39: type 0x80820003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+40: type 0x8060000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+41: type 0x80110003L TNEF: Attachment Meta File: MAPI integer (signed 32 bits) = 0x171L
+42: type 0x802b000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+43: type 0x80640003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+44: type 0x80200003L TNEF: Date Modified: MAPI integer (signed 32 bits) = 0x190e3L
+45: type 0x80180040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32e094e50b000L
+46: type 0x805a0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x3cL
+47: type 0x805b0040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32e00ec8c4800L
+48: type 0x81080003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+49: type 0x8109001eL TNEF: UNKNOWN: MAPI string = None
+50: type 0x810a001eL TNEF: UNKNOWN: MAPI string = None
+51: type 0x810b000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+52: type 0x810c001eL TNEF: UNKNOWN: MAPI string = None
+53: type 0x810d001eL TNEF: UNKNOWN: MAPI string = None
+54: type 0x80aa001eL TNEF: UNKNOWN: MAPI string = 10.0
+55: type 0x80ab000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+56: type 0x80ac0040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32e094e50b000L
+57: type 0x80ad0040L TNEF: UNKNOWN: MAPI time (64 bits) = 0x1c32ed278ba7000L
+58: type 0x80af000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+59: type 0x80b20003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+60: type 0x810e0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0xffffffffL
+61: type 0x810f0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+62: type 0x81100003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+63: type 0x81110003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+64: type 0x8112000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+65: type 0x81130003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+66: type 0x8114000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x0L
+67: type 0x80020003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+68: type 0x8115001eL TNEF: UNKNOWN: MAPI string = None
+69: type 0x8063001eL TNEF: UNKNOWN: MAPI string = (GMT+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
+70: type 0x80060040L TNEF: Date Received: MAPI time (64 bits) = 0x1c32e094e50b000L
+71: type 0x80070040L TNEF: Message Status: MAPI time (64 bits) = 0x1c32ed278ba7000L
+72: type 0x81160003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+73: type 0x8117000bL TNEF: UNKNOWN: MAPI boolean (16 bits) = 0x1L
+74: type 0x8118001eL TNEF: UNKNOWN: MAPI string = None
+75: type 0x81190003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+76: type 0x811a0003L TNEF: UNKNOWN: MAPI integer (signed 32 bits) = 0x0L
+77: type 0x8013101eL TNEF: Attachment Modification Date: UNKNOWN =
+78: type 0x3d001eL MAPI: MAPI_SUBJECT_PREFIX: MAPI string = None
+79: type 0xe02001eL MAPI: MAPI_DISPLAY_BCC: MAPI string = None
+80: type 0xe03001eL MAPI: MAPI_DISPLAY_CC: MAPI string = None
+81: type 0xe04001eL MAPI: MAPI_DISPLAY_TO: MAPI string = None
+82: type 0xe090102L MAPI: MAPI_PARENT_ENTRYID: MAPI binary = 000000001971D130FDC9C84BBF792E7E9057B8CB22810000 (.....qT0¤гLK¬y.~РW¬T"Б..)
+83: type 0xe1b000bL MAPI: MAPI_HASATTACH: MAPI boolean (16 bits) = 0x0L
+84: type 0xe1d001eL MAPI: MAPI_NORMALIZED_SUBJECT: MAPI string = Pfingstmontag
+85: type 0xff40003L MAPI: MAPI_ACCESS: MAPI integer (signed 32 bits) = 0x3L
+86: type 0xff70003L MAPI: MAPI_ACCESS_LEVEL: MAPI integer (signed 32 bits) = 0x1L
+87: type 0xff80102L MAPI: MAPI_MAPPING_SIGNATURE: MAPI binary = 1971D130FDC9C84BBF792E7E9057B8CB (.qT0¤гLK¬y.~РW¬T)
+88: type 0xff90102L MAPI: MAPI_RECORD_KEY: MAPI binary = E4EF2100 (фя!.)
+89: type 0xffa0102L MAPI: MAPI_STORE_RECORD_KEY: MAPI binary = 1971D130FDC9C84BBF792E7E9057B8CB (.qT0¤гLK¬y.~РW¬T)
+90: type 0xffb0102L MAPI: MAPI_STORE_ENTRYID: MAPI binary = 0000000038A1BB1005E5101AA1BB08002B2A56C200006D737073742E646C6C00000000004E495441F9BFB80100AA0037D96E000000433A5C446F6B756D656E746520756E642045696E7374656C6C756E67656E5C4865696E6F5C4C6F6B616C652045696E7374656C6C756E67656E5C416E77656E64756E6773646174656E5C4D6963726F736F66745C4F75746C6F6F6B5C4F75746C6F6F6B2E70737400 (....8б¬..х..б¬..+*VT..mspst.dll.....NITA•¬¬..к.7-n...C:\Dokumente und Einstellungen\Heino\Lokale Einstellungen\Anwendungsdaten\Microsoft\Outlook\Outlook.pst.)
+91: type 0xffe0003L MAPI: MAPI_OBJECT_TYPE: MAPI integer (signed 32 bits) = 0x5L
+92: type 0xfff0102L MAPI: MAPI_ENTRYID: MAPI binary = 000000001971D130FDC9C84BBF792E7E9057B8CBE4EF2100 (.....qT0¤гLK¬y.~РW¬Tфя!.)
+93: type 0x340d0003L MAPI: MAPI_STORE_SUPPORT_MASK: MAPI integer (signed 32 bits) = 0x237fdL
+94: type 0x34140102L MAPI: MAPI_MDB_PROVIDER: MAPI binary = 4E495441F9BFB80100AA0037D96E0000 (NITA•¬¬..к.7-n..)

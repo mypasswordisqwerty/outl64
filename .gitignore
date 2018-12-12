@@ -1,0 +1,10 @@
+.*
+!.gitignore
+*.pyc
+*.log
+*.tmp
+pyoutconf.py
+*.sqlite
+mails/files
+mails/gen
+

@@ -1,0 +1,78 @@
+// Outl64FuzzLib.idl:
+
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(a817e7a2-43fa-11d0-9e44-00aa00b6770a),
+	dual,	
+	pointer_default(unique)
+]
+interface IComponentRegistrar : IDispatch
+{
+	[id(1)]	HRESULT Attach([in] BSTR bstrPath);
+	[id(2)]	HRESULT RegisterAll();
+	[id(3)]	HRESULT UnregisterAll();
+	[id(4)]	HRESULT GetComponents([out] SAFEARRAY(BSTR)* pbstrCLSIDs, [out] SAFEARRAY(BSTR)* pbstrDescriptions);
+	[id(5)]	HRESULT RegisterComponent([in] BSTR bstrCLSID);
+	[id(6)] HRESULT UnregisterComponent([in] BSTR bstrCLSID);
+};
+
+[
+	object,
+	uuid(7CEECFDA-32C6-4592-BE27-A881E1967FC4),
+	dual,
+	nonextensible,
+	pointer_default(unique),
+	helpstring("IMapiFuzz interface")
+]
+interface IMapiFuzz : IDispatch{
+	[id(1)] HRESULT version([out, retval] BSTR* result);
+	[id(2)] HRESULT parseTnef([in] VARIANT data, [in] LONG mockMessage, [out, retval] LONG* processed);
+	[id(3)] HRESULT config([in] LONG logLevel);
+	[id(4)] HRESULT createMessage([in] VARIANT propValues, [out, retval] LONG* processed);
+	[id(5)] HRESULT parseCert([in] VARIANT propValues, [out, retval] LONG* processed);
+	[id(6)] HRESULT crash([in] LONG param);
+};
+
+
+[
+	uuid(E8FBB04D-8A6F-4517-B6EB-6FC7033DF2B5),
+	version(1.0),
+	custom(a817e7a1-43fa-11d0-9e44-00aa00b6770a,"{62E14862-97DC-47A7-92BC-0B190827ADD8}"),
+	helpstring("Outl64FuzzLib 1.0 Type Library")
+]
+library Outl64FuzzLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(62E14862-97DC-47A7-92BC-0B190827ADD8)		
+	]
+	coclass CompReg
+	{
+		[default] interface IComponentRegistrar;
+	};
+
+	[
+		uuid(7CEECFDD-32C6-4592-BE27-A881E1967FC4),
+		helpstring("IMapiFuzz events")
+	]
+	dispinterface _IMapiFuzzEvents{
+properties:
+methods:
+	[id(1)] HRESULT log([in] LONG level,[in] BSTR message);
+	};
+
+	[		
+		uuid(2FD04774-5788-4BBA-B925-71AFBC0A38C7),
+		helpstring("MapiFuzz CoClass")
+	]
+	coclass MapiFuzz
+	{
+		[default] interface IMapiFuzz;
+		[default, source] dispinterface _IMapiFuzzEvents;
+	};
+};
+

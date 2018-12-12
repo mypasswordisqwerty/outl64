@@ -1,0 +1,40 @@
+From: {m[from]}
+To: {m[to]}
+Subject: {m[subject]}
+Date: {m[date]}
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0001_01D3590A.E6D57450"
+Content-Language: ru
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01D3590A.E6D57450
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:r="http://schemas.openxmlformats.org/package/2006/relationships"
+xmlns="http://www.w3.org/TR/REC-html10"
+>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=us-ascii">
+<meta name=Generator content="Microsoft Word 15(filtered medium)">
+</head><body lang=EN link="#0563C1" vlink="#954F72">
+rem<br>
+</body></html>
+
+
+------=_NextPart_000_0001_01D3590A.E6D57450
+Content-Type: application/octet-stream;
+	name={m[curfile]}
+Content-Transfer-Encoding: base64
+
+{m[file__pigfile__base64]}
+
+------=_NextPart_000_0001_01D3590A.E6D57450--
+

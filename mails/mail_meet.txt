@@ -1,0 +1,76 @@
+From: {m[from]}
+To: {m[to]}
+Subject: {m[subject]}
+Date: {m[date]}
+MIME-Version: 1.0
+Content-Type: text/calendar; method=REQUEST;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 15.0
+Content-Language: ru
+
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:FALSE
+BEGIN:VTIMEZONE
+TZID:Russian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN={m[to_adr]};RSVP=TRUE:mailto:{m[to_adr]}
+CLASS:PUBLIC
+CREATED:{m[times].ISOTZ}
+DESCRIPTION:fuck\n
+DTEND;TZID="Russian Standard Time":{m[times].ISODT}T093000
+DTSTAMP:{m[times].ISOTZ}
+DTSTART;TZID="Russian Standard Time":{m[times].ISODT}T090000
+LAST-MODIFIED:{m[times].ISOTZ}
+LOCATION:place
+ORGANIZER;CN={m[from_name]}:mailto:{m[from_adr]}
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=ru:{m[subject]}
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000050598E91790BD301000000000000000
+	010000000497585190EEC5843A70680AD1F6B59CB
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
+	xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:w="urn:schemas-microsoft-com:office:word"
+	xmlns:x="urn:schemas-microsoft-com:office:excel"
+	xmlns:r="http://schemas.openxmlformats.org/package/2006/relationships"
+	xmlns="http://www.w3.org/TR/REC-html10"
+	> prehead <head>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=us-ascii">
+	<meta name=Generator content="Microsoft Word 15(filtered medium)">
+	<script>
+	inscript 
+	alert("OK");
+	</script>
+	inhead 
+	</head><body lang=EN link="#0563C1" vlink="#954F72">
+	first 
+	<script>
+	inscript2 
+	</script>
+	<v:shape>
+	\\{{\colortbl ;\red255\green0\blue0;\\}}
+	inshape 
+	<v:imagedata src="vbscript:http://www.local:8080/test.vbs"/>
+	</v:shape>
+	last 
+	</body>outbody </html> afterall
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
+

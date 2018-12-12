@@ -1,0 +1,1106 @@
+address       name              namelen field_C flags    tagid 
+-------       ----              ------- ------- -------- -------- 
+7FFAA9073D90h !doctype          8h      3h      1000h    0        
+7FFAA9073DA8h ?xml              4h      1h      31000h   1h       
+7FFAA9073DC0h ?xml:namespace    Eh      2h      31000h   2h       
+7FFAA9073DD8h AElig             5h      0       4000h    FFFFFFFFh
+7FFAA9073DF0h AMP               3h      0       4000h    FFFFFFFFh
+7FFAA9073E08h Aacute            6h      0       4000h    FFFFFFFFh
+7FFAA9073E20h Acirc             5h      0       4000h    FFFFFFFFh
+7FFAA9073E38h Agrave            6h      0       4000h    FFFFFFFFh
+7FFAA9073E50h Alpha             5h      0       4000h    FFFFFFFFh
+7FFAA9073E68h Aring             5h      0       4000h    FFFFFFFFh
+7FFAA9073E80h Atilde            6h      0       4000h    FFFFFFFFh
+7FFAA9073E98h Auml              4h      0       4000h    FFFFFFFFh
+7FFAA9073EB0h Beta              4h      0       4000h    FFFFFFFFh
+7FFAA9073EC8h COPY              4h      0       4000h    FFFFFFFFh
+7FFAA9073EE0h Ccedil            6h      0       4000h    FFFFFFFFh
+7FFAA9073EF8h Chi               3h      0       4000h    FFFFFFFFh
+7FFAA9073F10h Dagger            6h      0       4000h    FFFFFFFFh
+7FFAA9073F28h Delta             5h      0       4000h    FFFFFFFFh
+7FFAA9073F40h ETH               3h      0       4000h    FFFFFFFFh
+7FFAA9073F58h Eacute            6h      0       4000h    FFFFFFFFh
+7FFAA9073F70h Ecirc             5h      0       4000h    FFFFFFFFh
+7FFAA9073F88h Egrave            6h      0       4000h    FFFFFFFFh
+7FFAA9073FA0h Epsilon           7h      0       4000h    FFFFFFFFh
+7FFAA9073FB8h Eta               3h      0       4000h    FFFFFFFFh
+7FFAA9073FD0h Euml              4h      0       4000h    FFFFFFFFh
+7FFAA9073FE8h GT                2h      0       4000h    FFFFFFFFh
+7FFAA9074000h Gamma             5h      0       4000h    FFFFFFFFh
+7FFAA9074018h Iacute            6h      0       4000h    FFFFFFFFh
+7FFAA9074030h Icirc             5h      0       4000h    FFFFFFFFh
+7FFAA9074048h Igrave            6h      0       4000h    FFFFFFFFh
+7FFAA9074060h Iota              4h      0       4000h    FFFFFFFFh
+7FFAA9074078h Iuml              4h      0       4000h    FFFFFFFFh
+7FFAA9074090h Kappa             5h      0       4000h    FFFFFFFFh
+7FFAA90740A8h LT                2h      0       4000h    FFFFFFFFh
+7FFAA90740C0h Lambda            6h      0       4000h    FFFFFFFFh
+7FFAA90740D8h Mu                2h      0       4000h    FFFFFFFFh
+7FFAA90740F0h Ntilde            6h      0       4000h    FFFFFFFFh
+7FFAA9074108h Nu                2h      0       4000h    FFFFFFFFh
+7FFAA9074120h OElig             5h      0       4000h    FFFFFFFFh
+7FFAA9074138h Oacute            6h      0       4000h    FFFFFFFFh
+7FFAA9074150h Ocirc             5h      0       4000h    FFFFFFFFh
+7FFAA9074168h Ograve            6h      0       4000h    FFFFFFFFh
+7FFAA9074180h Omega             5h      0       4000h    FFFFFFFFh
+7FFAA9074198h Omicron           7h      0       4000h    FFFFFFFFh
+7FFAA90741B0h Oslash            6h      0       4000h    FFFFFFFFh
+7FFAA90741C8h Otilde            6h      0       4000h    FFFFFFFFh
+7FFAA90741E0h Ouml              4h      0       4000h    FFFFFFFFh
+7FFAA90741F8h Phi               3h      0       4000h    FFFFFFFFh
+7FFAA9074210h Pi                2h      0       4000h    FFFFFFFFh
+7FFAA9074228h Prime             5h      0       4000h    FFFFFFFFh
+7FFAA9074240h Psi               3h      0       4000h    FFFFFFFFh
+7FFAA9074258h QUOT              4h      0       4000h    FFFFFFFFh
+7FFAA9074270h REG               3h      0       4000h    FFFFFFFFh
+7FFAA9074288h Rho               3h      0       4000h    FFFFFFFFh
+7FFAA90742A0h Scaron            6h      0       4000h    FFFFFFFFh
+7FFAA90742B8h Sigma             5h      0       4000h    FFFFFFFFh
+7FFAA90742D0h THORN             5h      0       4000h    FFFFFFFFh
+7FFAA90742E8h TRADE             5h      0       4000h    FFFFFFFFh
+7FFAA9074300h Tau               3h      0       4000h    FFFFFFFFh
+7FFAA9074318h Theta             5h      0       4000h    FFFFFFFFh
+7FFAA9074330h Uacute            6h      0       4000h    FFFFFFFFh
+7FFAA9074348h Ucirc             5h      0       4000h    FFFFFFFFh
+7FFAA9074360h Ugrave            6h      0       4000h    FFFFFFFFh
+7FFAA9074378h Upsilon           7h      0       4000h    FFFFFFFFh
+7FFAA9074390h Uuml              4h      0       4000h    FFFFFFFFh
+7FFAA90743A8h Xi                2h      0       4000h    FFFFFFFFh
+7FFAA90743C0h Yacute            6h      0       4000h    FFFFFFFFh
+7FFAA90743D8h Yuml              4h      0       4000h    FFFFFFFFh
+7FFAA90743F0h Zeta              4h      0       4000h    FFFFFFFFh
+7FFAA9074408h a                 1h      1h      1001h    3h       
+7FFAA9074420h aacute            6h      0       4000h    FFFFFFFFh
+7FFAA9074438h abbr              4h      1h      1001h    4h       
+7FFAA9074450h accesskey         9h      0       2000h    FFFFFFFFh
+7FFAA9074468h acirc             5h      0       4000h    FFFFFFFFh
+7FFAA9074480h acronym           7h      1h      1001h    5h       
+7FFAA9074498h action            6h      0       2000h    FFFFFFFFh
+7FFAA90744B0h acute             5h      0       4000h    FFFFFFFFh
+7FFAA90744C8h address           7h      3h      1101h    6h       
+7FFAA90744E0h aelig             5h      0       4000h    FFFFFFFFh
+7FFAA90744F8h aggregator        Ah      0       2000h    FFFFFFFFh
+7FFAA9074510h agrave            6h      0       4000h    FFFFFFFFh
+7FFAA9074528h alefsym           7h      0       4000h    FFFFFFFFh
+7FFAA9074540h align             5h      0       2000h    FFFFFFFFh
+7FFAA9074558h alink             5h      0       2000h    FFFFFFFFh
+7FFAA9074570h alpha             5h      0       4000h    FFFFFFFFh
+7FFAA9074588h alt               3h      0       2000h    FFFFFFFFh
+7FFAA90745A0h amp               3h      0       4000h    FFFFFFFFh
+7FFAA90745B8h and               3h      0       4000h    FFFFFFFFh
+7FFAA90745D0h ang               3h      0       4000h    FFFFFFFFh
+7FFAA90745E8h applet            6h      5h      31011h   7h       
+7FFAA9074600h area              4h      1h      1000h    8h       
+7FFAA9074618h aring             5h      0       4000h    FFFFFFFFh
+7FFAA9074630h asymp             5h      0       4000h    FFFFFFFFh
+7FFAA9074648h atilde            6h      0       4000h    FFFFFFFFh
+7FFAA9074660h auml              4h      0       4000h    FFFFFFFFh
+7FFAA9074678h autostart         9h      0       2000h    FFFFFFFFh
+7FFAA9074690h b                 1h      1h      1007h    9h       
+7FFAA90746A8h background        Ah      0       2040h    FFFFFFFFh
+7FFAA90746C0h base              4h      2h      1000h    Ah       
+7FFAA90746D8h basefont          8h      2h      1000h    Bh       
+7FFAA90746F0h bdo               3h      1h      1001h    Ch       
+7FFAA9074708h bdquo             5h      0       4000h    FFFFFFFFh
+7FFAA9074720h behavior          8h      0       2000h    FFFFFFFFh
+7FFAA9074738h beta              4h      0       4000h    FFFFFFFFh
+7FFAA9074750h bgcolor           7h      0       2000h    FFFFFFFFh
+7FFAA9074768h bgproperties      Ch      0       2000h    FFFFFFFFh
+7FFAA9074780h bgsound           7h      3h      31000h   Dh       
+7FFAA9074798h big               3h      1h      1007h    Eh       
+7FFAA90747B0h blink             5h      1h      1007h    Fh       
+7FFAA90747C8h blockquote        Ah      3h      1101h    10h      
+7FFAA90747E0h body              4h      5h      1909h    11h      
+7FFAA90747F8h border            6h      0       2000h    FFFFFFFFh
+7FFAA9074810h bordercolor       Bh      0       2000h    FFFFFFFFh
+7FFAA9074828h bordercolordark   Fh      0       2000h    FFFFFFFFh
+7FFAA9074840h bordercolorlight  10h     0       2000h    FFFFFFFFh
+7FFAA9074858h br                2h      6h      1000h    12h      
+7FFAA9074870h brvbar            6h      0       4000h    FFFFFFFFh
+7FFAA9074888h bull              4h      0       4000h    FFFFFFFFh
+7FFAA90748A0h button            6h      2h      1001h    13h      
+7FFAA90748B8h cap               3h      0       4000h    FFFFFFFFh
+7FFAA90748D0h caption           7h      2h      1001h    14h      
+7FFAA90748E8h ccedil            6h      0       4000h    FFFFFFFFh
+7FFAA9074900h cedil             5h      0       4000h    FFFFFFFFh
+7FFAA9074918h cellpadding       Bh      0       2000h    FFFFFFFFh
+7FFAA9074930h cellspacing       Bh      0       2000h    FFFFFFFFh
+7FFAA9074948h cent              4h      0       4000h    FFFFFFFFh
+7FFAA9074960h center            6h      3h      1105h    15h      
+7FFAA9074978h checked           7h      0       2000h    FFFFFFFFh
+7FFAA9074990h chi               3h      0       4000h    FFFFFFFFh
+7FFAA90749A8h circ              4h      0       4000h    FFFFFFFFh
+7FFAA90749C0h cite              4h      1h      3045h    16h      
+7FFAA90749D8h class             5h      0       2000h    FFFFFFFFh
+7FFAA90749F0h classid           7h      0       2000h    FFFFFFFFh
+7FFAA9074A08h clear             5h      0       2000h    FFFFFFFFh
+7FFAA9074A20h clubs             5h      0       4000h    FFFFFFFFh
+7FFAA9074A38h code              4h      1h      3005h    17h      
+7FFAA9074A50h codebase          8h      0       2000h    FFFFFFFFh
+7FFAA9074A68h codetype          8h      0       2000h    FFFFFFFFh
+7FFAA9074A80h col               3h      2h      1000h    18h      
+7FFAA9074A98h colfield          8h      0       2000h    FFFFFFFFh
+7FFAA9074AB0h colgroup          8h      2h      1000h    19h      
+7FFAA9074AC8h color             5h      0       2000h    FFFFFFFFh
+7FFAA9074AE0h cols              4h      0       2000h    FFFFFFFFh
+7FFAA9074AF8h colspan           7h      0       2000h    FFFFFFFFh
+7FFAA9074B10h comment           7h      1h      31005h   1Ah      
+7FFAA9074B28h compact           7h      0       2000h    FFFFFFFFh
+7FFAA9074B40h cong              4h      0       4000h    FFFFFFFFh
+7FFAA9074B58h content           7h      0       2000h    FFFFFFFFh
+7FFAA9074B70h controls          8h      0       2000h    FFFFFFFFh
+7FFAA9074B88h coords            6h      0       2000h    FFFFFFFFh
+7FFAA9074BA0h copy              4h      0       4000h    FFFFFFFFh
+7FFAA9074BB8h crarr             5h      0       4000h    FFFFFFFFh
+7FFAA9074BD0h crosstab          8h      0       2000h    FFFFFFFFh
+7FFAA9074BE8h crosstabgrand     Dh      0       2000h    FFFFFFFFh
+7FFAA9074C00h cup               3h      0       4000h    FFFFFFFFh
+7FFAA9074C18h curren            6h      0       4000h    FFFFFFFFh
+7FFAA9074C30h dArr              4h      0       4000h    FFFFFFFFh
+7FFAA9074C48h dagger            6h      0       4000h    FFFFFFFFh
+7FFAA9074C60h darr              4h      0       4000h    FFFFFFFFh
+7FFAA9074C78h data              4h      0       2000h    FFFFFFFFh
+7FFAA9074C90h datafield         9h      0       2000h    FFFFFFFFh
+7FFAA9074CA8h datafld           7h      0       2000h    FFFFFFFFh
+7FFAA9074CC0h dataformatas      Ch      0       2000h    FFFFFFFFh
+7FFAA9074CD8h datasrc           7h      0       2000h    FFFFFFFFh
+7FFAA9074CF0h datetime          8h      0       2000h    FFFFFFFFh
+7FFAA9074D08h dd                2h      2h      1B01h    1Bh      
+7FFAA9074D20h declare           7h      0       2000h    FFFFFFFFh
+7FFAA9074D38h deg               3h      0       4000h    FFFFFFFFh
+7FFAA9074D50h del               3h      1h      1007h    1Ch      
+7FFAA9074D68h delta             5h      0       4000h    FFFFFFFFh
+7FFAA9074D80h dfn               3h      1h      1005h    1Dh      
+7FFAA9074D98h diams             5h      0       4000h    FFFFFFFFh
+7FFAA9074DB0h dir               3h      5h      3511h    1Eh      
+7FFAA9074DC8h direction         9h      0       2000h    FFFFFFFFh
+7FFAA9074DE0h disabled          8h      0       2000h    FFFFFFFFh
+7FFAA9074DF8h disposition       Bh      0       2000h    FFFFFFFFh
+7FFAA9074E10h div               3h      3h      11101h   1Fh      
+7FFAA9074E28h divide            6h      0       4000h    FFFFFFFFh
+7FFAA9074E40h dl                2h      5h      1511h    20h      
+7FFAA9074E58h dt                2h      2h      1B01h    21h      
+7FFAA9074E70h dynsrc            6h      0       2040h    FFFFFFFFh
+7FFAA9074E88h eacute            6h      0       4000h    FFFFFFFFh
+7FFAA9074EA0h ecirc             5h      0       4000h    FFFFFFFFh
+7FFAA9074EB8h egrave            6h      0       4000h    FFFFFFFFh
+7FFAA9074ED0h em                2h      1h      1005h    22h      
+7FFAA9074EE8h embed             5h      3h      1000h    23h      
+7FFAA9074F00h empty             5h      0       4000h    FFFFFFFFh
+7FFAA9074F18h emsp              4h      0       4000h    FFFFFFFFh
+7FFAA9074F30h enctype           7h      0       2000h    FFFFFFFFh
+7FFAA9074F48h ensp              4h      0       4000h    FFFFFFFFh
+7FFAA9074F60h epsilon           7h      0       4000h    FFFFFFFFh
+7FFAA9074F78h equiv             5h      0       4000h    FFFFFFFFh
+7FFAA9074F90h eta               3h      0       4000h    FFFFFFFFh
+7FFAA9074FA8h eth               3h      0       4000h    FFFFFFFFh
+7FFAA9074FC0h euml              4h      0       4000h    FFFFFFFFh
+7FFAA9074FD8h euro              4h      0       4000h    FFFFFFFFh
+7FFAA9074FF0h event             5h      2h      1000h    24h      
+7FFAA9075008h exist             5h      0       4000h    FFFFFFFFh
+7FFAA9075020h face              4h      0       2000h    FFFFFFFFh
+7FFAA9075038h fieldset          8h      4h      1111h    25h      
+7FFAA9075050h filter            6h      0       2000h    FFFFFFFFh
+7FFAA9075068h fnof              4h      0       4000h    FFFFFFFFh
+7FFAA9075080h font              4h      1h      1005h    26h      
+7FFAA9075098h for               3h      0       2000h    FFFFFFFFh
+7FFAA90750B0h forall            6h      0       4000h    FFFFFFFFh
+7FFAA90750C8h form              4h      5h      1101h    27h      
+7FFAA90750E0h formula           7h      0       2000h    FFFFFFFFh
+7FFAA90750F8h frac12            6h      0       4000h    FFFFFFFFh
+7FFAA9075110h frac14            6h      0       4000h    FFFFFFFFh
+7FFAA9075128h frac34            6h      0       4000h    FFFFFFFFh
+7FFAA9075140h frame             5h      2h      3040h    28h      
+7FFAA9075158h frameborder       Bh      0       2000h    FFFFFFFFh
+7FFAA9075170h frameset          8h      5h      1819h    29h      
+7FFAA9075188h framespacing      Ch      0       2000h    FFFFFFFFh
+7FFAA90751A0h frasl             5h      0       4000h    FFFFFFFFh
+7FFAA90751B8h gamma             5h      0       4000h    FFFFFFFFh
+7FFAA90751D0h ge                2h      0       4000h    FFFFFFFFh
+7FFAA90751E8h gt                2h      0       4000h    FFFFFFFFh
+7FFAA9075200h gutter            6h      0       2000h    FFFFFFFFh
+7FFAA9075218h h1                2h      3h      1101h    2Ah      
+7FFAA9075230h h2                2h      3h      1101h    2Bh      
+7FFAA9075248h h3                2h      3h      1101h    2Ch      
+7FFAA9075260h h4                2h      3h      1101h    2Dh      
+7FFAA9075278h h5                2h      3h      1101h    2Eh      
+7FFAA9075290h h6                2h      3h      1101h    2Fh      
+7FFAA90752A8h hArr              4h      0       4000h    FFFFFFFFh
+7FFAA90752C0h harr              4h      0       4000h    FFFFFFFFh
+7FFAA90752D8h head              4h      5h      1209h    30h      
+7FFAA90752F0h hearts            6h      0       4000h    FFFFFFFFh
+7FFAA9075308h height            6h      0       2000h    FFFFFFFFh
+7FFAA9075320h hellip            6h      0       4000h    FFFFFFFFh
+7FFAA9075338h hr                2h      5h      1100h    31h      
+7FFAA9075350h href              4h      0       2040h    FFFFFFFFh
+7FFAA9075368h hspace            6h      0       2000h    FFFFFFFFh
+7FFAA9075380h html              4h      4h      3009h    32h      
+7FFAA9075398h http-equiv        Ah      0       2000h    FFFFFFFFh
+7FFAA90753B0h i                 1h      1h      1007h    33h      
+7FFAA90753C8h iacute            6h      0       4000h    FFFFFFFFh
+7FFAA90753E0h icirc             5h      0       4000h    FFFFFFFFh
+7FFAA90753F8h id                2h      0       2000h    FFFFFFFFh
+7FFAA9075410h iexcl             5h      0       4000h    FFFFFFFFh
+7FFAA9075428h if                2h      0       2000h    FFFFFFFFh
+7FFAA9075440h ifapp             5h      0       2000h    FFFFFFFFh
+7FFAA9075458h iframe            6h      5h      1011h    34h      
+7FFAA9075470h igrave            6h      0       4000h    FFFFFFFFh
+7FFAA9075488h image             5h      0       4000h    FFFFFFFFh
+7FFAA90754A0h img               3h      1h      1000h    35h      
+7FFAA90754B8h infin             5h      0       4000h    FFFFFFFFh
+7FFAA90754D0h input             5h      3h      31000h   36h      
+7FFAA90754E8h ins               3h      1h      1007h    37h      
+7FFAA9075500h int               3h      0       4000h    FFFFFFFFh
+7FFAA9075518h iota              4h      0       4000h    FFFFFFFFh
+7FFAA9075530h iquest            6h      0       4000h    FFFFFFFFh
+7FFAA9075548h isin              4h      0       4000h    FFFFFFFFh
+7FFAA9075560h isindex           7h      2h      1100h    38h      
+7FFAA9075578h ismap             5h      0       2000h    FFFFFFFFh
+7FFAA9075590h iuml              4h      0       4000h    FFFFFFFFh
+7FFAA90755A8h kappa             5h      0       4000h    FFFFFFFFh
+7FFAA90755C0h kbd               3h      1h      1005h    39h      
+7FFAA90755D8h lArr              4h      0       4000h    FFFFFFFFh
+7FFAA90755F0h label             5h      4h      1011h    3Ah      
+7FFAA9075608h lambda            6h      0       4000h    FFFFFFFFh
+7FFAA9075620h lang              4h      0       2000h    FFFFFFFFh
+7FFAA9075638h lang              4h      0       4000h    FFFFFFFFh
+7FFAA9075650h language          8h      0       2000h    FFFFFFFFh
+7FFAA9075668h laquo             5h      0       4000h    FFFFFFFFh
+7FFAA9075680h larr              4h      0       4000h    FFFFFFFFh
+7FFAA9075698h layer             5h      5h      1011h    3Bh      
+7FFAA90756B0h lceil             5h      0       4000h    FFFFFFFFh
+7FFAA90756C8h ldquo             5h      0       4000h    FFFFFFFFh
+7FFAA90756E0h le                2h      0       4000h    FFFFFFFFh
+7FFAA90756F8h left              4h      0       2000h    FFFFFFFFh
+7FFAA9075710h leftmargin        Ah      0       2000h    FFFFFFFFh
+7FFAA9075728h legend            6h      4h      1011h    3Ch      
+7FFAA9075740h lfloor            6h      0       4000h    FFFFFFFFh
+7FFAA9075758h li                2h      2h      1B21h    3Dh      
+7FFAA9075770h link              4h      2h      3040h    3Eh      
+7FFAA9075788h listing           7h      1h      1103h    3Fh      
+7FFAA90757A0h loop              4h      0       2000h    FFFFFFFFh
+7FFAA90757B8h lowast            6h      0       4000h    FFFFFFFFh
+7FFAA90757D0h lowsrc            6h      0       2040h    FFFFFFFFh
+7FFAA90757E8h loz               3h      0       4000h    FFFFFFFFh
+7FFAA9075800h lrm               3h      0       4000h    FFFFFFFFh
+7FFAA9075818h lsaquo            6h      0       4000h    FFFFFFFFh
+7FFAA9075830h lsquo             5h      0       4000h    FFFFFFFFh
+7FFAA9075848h lt                2h      0       4000h    FFFFFFFFh
+7FFAA9075860h macr              4h      0       4000h    FFFFFFFFh
+7FFAA9075878h map               3h      1h      1001h    40h      
+7FFAA9075890h marginheight      Ch      0       2000h    FFFFFFFFh
+7FFAA90758A8h marginwidth       Bh      0       2000h    FFFFFFFFh
+7FFAA90758C0h marquee           7h      3h      31001h   41h      
+7FFAA90758D8h maxlength         9h      0       2000h    FFFFFFFFh
+7FFAA90758F0h mdash             5h      0       4000h    FFFFFFFFh
+7FFAA9075908h media             5h      0       2000h    FFFFFFFFh
+7FFAA9075920h menu              4h      5h      1511h    42h      
+7FFAA9075938h meta              4h      2h      31000h   43h      
+7FFAA9075950h method            6h      0       2000h    FFFFFFFFh
+7FFAA9075968h methods           7h      0       2000h    FFFFFFFFh
+7FFAA9075980h micro             5h      0       4000h    FFFFFFFFh
+7FFAA9075998h middot            6h      0       4000h    FFFFFFFFh
+7FFAA90759B0h minus             5h      0       4000h    FFFFFFFFh
+7FFAA90759C8h mu                2h      0       4000h    FFFFFFFFh
+7FFAA90759E0h multicol          8h      3h      1001h    44h      
+7FFAA90759F8h multiple          8h      0       2000h    FFFFFFFFh
+7FFAA9075A10h nabla             5h      0       4000h    FFFFFFFFh
+7FFAA9075A28h name              4h      0       2000h    FFFFFFFFh
+7FFAA9075A40h nbsp              4h      0       4000h    FFFFFFFFh
+7FFAA9075A58h ndash             5h      0       4000h    FFFFFFFFh
+7FFAA9075A70h ne                2h      0       4000h    FFFFFFFFh
+7FFAA9075A88h nextid            6h      2h      1000h    45h      
+7FFAA9075AA0h ni                2h      0       4000h    FFFFFFFFh
+7FFAA9075AB8h nobr              4h      1h      1001h    46h      
+7FFAA9075AD0h noframes          8h      4h      1111h    47h      
+7FFAA9075AE8h nohref            6h      0       2000h    FFFFFFFFh
+7FFAA9075B00h noresize          8h      0       2000h    FFFFFFFFh
+7FFAA9075B18h noscript          8h      4h      1111h    48h      
+7FFAA9075B30h noshade           7h      0       2000h    FFFFFFFFh
+7FFAA9075B48h not               3h      0       4000h    FFFFFFFFh
+7FFAA9075B60h notin             5h      0       4000h    FFFFFFFFh
+7FFAA9075B78h nowrap            6h      0       2000h    FFFFFFFFh
+7FFAA9075B90h ns                2h      0       2000h    FFFFFFFFh
+7FFAA9075BA8h nsub              4h      0       4000h    FFFFFFFFh
+7FFAA9075BC0h ntilde            6h      0       4000h    FFFFFFFFh
+7FFAA9075BD8h nu                2h      0       4000h    FFFFFFFFh
+7FFAA9075BF0h o:xmlsourcehref   Fh      0       20C0h    FFFFFFFFh
+7FFAA9075C08h oa:clockstart     Dh      0       2080h    FFFFFFFFh
+7FFAA9075C20h oacute            6h      0       4000h    FFFFFFFFh
+7FFAA9075C38h object            6h      1h      31011h   49h      
+7FFAA9075C50h ocirc             5h      0       4000h    FFFFFFFFh
+7FFAA9075C68h oelig             5h      0       4000h    FFFFFFFFh
+7FFAA9075C80h ograve            6h      0       4000h    FFFFFFFFh
+7FFAA9075C98h ol                2h      5h      1511h    4Ah      
+7FFAA9075CB0h oline             5h      0       4000h    FFFFFFFFh
+7FFAA9075CC8h omega             5h      0       4000h    FFFFFFFFh
+7FFAA9075CE0h omicron           7h      0       4000h    FFFFFFFFh
+7FFAA9075CF8h onclick           7h      0       2000h    FFFFFFFFh
+7FFAA9075D10h onfilterchange    Eh      0       2000h    FFFFFFFFh
+7FFAA9075D28h onfocus           7h      0       2000h    FFFFFFFFh
+7FFAA9075D40h onkeypress        Ah      0       2000h    FFFFFFFFh
+7FFAA9075D58h onload            6h      0       2000h    FFFFFFFFh
+7FFAA9075D70h onmousedown       Bh      0       2000h    FFFFFFFFh
+7FFAA9075D88h onmouseout        Ah      0       2000h    FFFFFFFFh
+7FFAA9075DA0h onmouseover       Bh      0       2000h    FFFFFFFFh
+7FFAA9075DB8h onmouseup         9h      0       2000h    FFFFFFFFh
+7FFAA9075DD0h onresize          8h      0       2000h    FFFFFFFFh
+7FFAA9075DE8h onunload          8h      0       2000h    FFFFFFFFh
+7FFAA9075E00h oplus             5h      0       4000h    FFFFFFFFh
+7FFAA9075E18h option            6h      2h      31A01h   4Bh      
+7FFAA9075E30h or                2h      0       4000h    FFFFFFFFh
+7FFAA9075E48h ordf              4h      0       4000h    FFFFFFFFh
+7FFAA9075E60h ordm              4h      0       4000h    FFFFFFFFh
+7FFAA9075E78h oslash            6h      0       4000h    FFFFFFFFh
+7FFAA9075E90h otilde            6h      0       4000h    FFFFFFFFh
+7FFAA9075EA8h otimes            6h      0       4000h    FFFFFFFFh
+7FFAA9075EC0h ouml              4h      0       4000h    FFFFFFFFh
+7FFAA9075ED8h p                 1h      3h      1101h    4Ch      
+7FFAA9075EF0h pagefield         9h      0       2000h    FFFFFFFFh
+7FFAA9075F08h para              4h      0       4000h    FFFFFFFFh
+7FFAA9075F20h param             5h      2h      31000h   4Dh      
+7FFAA9075F38h part              4h      0       4000h    FFFFFFFFh
+7FFAA9075F50h permil            6h      0       4000h    FFFFFFFFh
+7FFAA9075F68h perp              4h      0       4000h    FFFFFFFFh
+7FFAA9075F80h phi               3h      0       4000h    FFFFFFFFh
+7FFAA9075F98h pi                2h      0       4000h    FFFFFFFFh
+7FFAA9075FB0h piv               3h      0       4000h    FFFFFFFFh
+7FFAA9075FC8h plaintext         9h      2h      1101h    4Eh      
+7FFAA9075FE0h plusmn            6h      0       4000h    FFFFFFFFh
+7FFAA9075FF8h pound             5h      0       4000h    FFFFFFFFh
+7FFAA9076010h pre               3h      1h      1105h    4Fh      
+7FFAA9076028h prefix            6h      0       2000h    FFFFFFFFh
+7FFAA9076040h prime             5h      0       4000h    FFFFFFFFh
+7FFAA9076058h prod              4h      0       4000h    FFFFFFFFh
+7FFAA9076070h prompt            6h      0       2000h    FFFFFFFFh
+7FFAA9076088h prop              4h      0       4000h    FFFFFFFFh
+7FFAA90760A0h psi               3h      0       4000h    FFFFFFFFh
+7FFAA90760B8h q                 1h      1h      1005h    50h      
+7FFAA90760D0h quot              4h      0       4000h    FFFFFFFFh
+7FFAA90760E8h rArr              4h      0       4000h    FFFFFFFFh
+7FFAA9076100h radic             5h      0       4000h    FFFFFFFFh
+7FFAA9076118h rang              4h      0       4000h    FFFFFFFFh
+7FFAA9076130h raquo             5h      0       4000h    FFFFFFFFh
+7FFAA9076148h rarr              4h      0       4000h    FFFFFFFFh
+7FFAA9076160h rb                2h      1h      1A01h    51h      
+7FFAA9076178h rceil             5h      0       4000h    FFFFFFFFh
+7FFAA9076190h rdquo             5h      0       4000h    FFFFFFFFh
+7FFAA90761A8h readonly          8h      0       2000h    FFFFFFFFh
+7FFAA90761C0h real              4h      0       4000h    FFFFFFFFh
+7FFAA90761D8h reg               3h      0       4000h    FFFFFFFFh
+7FFAA90761F0h rel               3h      0       2000h    FFFFFFFFh
+7FFAA9076208h rev               3h      0       2000h    FFFFFFFFh
+7FFAA9076220h rfloor            6h      0       4000h    FFFFFFFFh
+7FFAA9076238h rho               3h      0       4000h    FFFFFFFFh
+7FFAA9076250h rlm               3h      0       4000h    FFFFFFFFh
+7FFAA9076268h rowfield          8h      0       2000h    FFFFFFFFh
+7FFAA9076280h rows              4h      0       2000h    FFFFFFFFh
+7FFAA9076298h rowspan           7h      0       2000h    FFFFFFFFh
+7FFAA90762B0h rp                2h      1h      1A01h    52h      
+7FFAA90762C8h rsaquo            6h      0       4000h    FFFFFFFFh
+7FFAA90762E0h rsquo             5h      0       4000h    FFFFFFFFh
+7FFAA90762F8h rt                2h      1h      1A01h    53h      
+7FFAA9076310h ruby              4h      1h      1401h    54h      
+7FFAA9076328h rules             5h      0       2000h    FFFFFFFFh
+7FFAA9076340h s                 1h      1h      1005h    55h      
+7FFAA9076358h samp              4h      1h      1005h    56h      
+7FFAA9076370h sbquo             5h      0       4000h    FFFFFFFFh
+7FFAA9076388h scaron            6h      0       4000h    FFFFFFFFh
+7FFAA90763A0h script            6h      1h      31001h   57h      
+7FFAA90763B8h scrollamount      Ch      0       2000h    FFFFFFFFh
+7FFAA90763D0h scrolldelay       Bh      0       2000h    FFFFFFFFh
+7FFAA90763E8h scrolling         9h      0       2000h    FFFFFFFFh
+7FFAA9076400h sdot              4h      0       4000h    FFFFFFFFh
+7FFAA9076418h sect              4h      0       4000h    FFFFFFFFh
+7FFAA9076430h select            6h      5h      31411h   58h      
+7FFAA9076448h selected          8h      0       2000h    FFFFFFFFh
+7FFAA9076460h shape             5h      0       2000h    FFFFFFFFh
+7FFAA9076478h shapes            6h      0       2000h    FFFFFFFFh
+7FFAA9076490h shy               3h      0       4000h    FFFFFFFFh
+7FFAA90764A8h sigma             5h      0       4000h    FFFFFFFFh
+7FFAA90764C0h sigmaf            6h      0       4000h    FFFFFFFFh
+7FFAA90764D8h sim               3h      0       4000h    FFFFFFFFh
+7FFAA90764F0h size              4h      0       2000h    FFFFFFFFh
+7FFAA9076508h small             5h      1h      1005h    59h      
+7FFAA9076520h spacer            6h      3h      1000h    5Ah      
+7FFAA9076538h spades            6h      0       4000h    FFFFFFFFh
+7FFAA9076550h span              4h      1h      13005h   5Bh      
+7FFAA9076568h src               3h      0       2040h    FFFFFFFFh
+7FFAA9076580h standby           7h      0       2000h    FFFFFFFFh
+7FFAA9076598h start             5h      0       2000h    FFFFFFFFh
+7FFAA90765B0h strike            6h      1h      1005h    5Ch      
+7FFAA90765C8h strong            6h      1h      1005h    5Dh      
+7FFAA90765E0h style             5h      4h      33011h   5Eh      
+7FFAA90765F8h sub               3h      1h      1005h    5Fh      
+7FFAA9076610h sub               3h      0       4000h    FFFFFFFFh
+7FFAA9076628h sube              4h      0       4000h    FFFFFFFFh
+7FFAA9076640h subtotal          8h      0       2000h    FFFFFFFFh
+7FFAA9076658h sum               3h      0       4000h    FFFFFFFFh
+7FFAA9076670h summary           7h      0       2000h    FFFFFFFFh
+7FFAA9076688h sup               3h      1h      1005h    60h      
+7FFAA90766A0h sup               3h      0       4000h    FFFFFFFFh
+7FFAA90766B8h sup1              4h      0       4000h    FFFFFFFFh
+7FFAA90766D0h sup2              4h      0       4000h    FFFFFFFFh
+7FFAA90766E8h sup3              4h      0       4000h    FFFFFFFFh
+7FFAA9076700h supe              4h      0       4000h    FFFFFFFFh
+7FFAA9076718h szlig             5h      0       4000h    FFFFFFFFh
+7FFAA9076730h tabindex          8h      0       2000h    FFFFFFFFh
+7FFAA9076748h table             5h      5h      1419h    61h      
+7FFAA9076760h tagname           7h      0       2000h    FFFFFFFFh
+7FFAA9076778h target            6h      0       2000h    FFFFFFFFh
+7FFAA9076790h tau               3h      0       4000h    FFFFFFFFh
+7FFAA90767A8h tbody             5h      4h      1011h    62h      
+7FFAA90767C0h td                2h      2h      1A01h    63h      
+7FFAA90767D8h text              4h      0       2000h    FFFFFFFFh
+7FFAA90767F0h textarea          8h      3h      31001h   64h      
+7FFAA9076808h tfoot             5h      4h      1011h    65h      
+7FFAA9076820h th                2h      2h      1A01h    66h      
+7FFAA9076838h thead             5h      4h      1011h    67h      
+7FFAA9076850h there4            6h      0       4000h    FFFFFFFFh
+7FFAA9076868h theta             5h      0       4000h    FFFFFFFFh
+7FFAA9076880h thetasym          8h      0       4000h    FFFFFFFFh
+7FFAA9076898h thinsp            6h      0       4000h    FFFFFFFFh
+7FFAA90768B0h thorn             5h      0       4000h    FFFFFFFFh
+7FFAA90768C8h tilde             5h      0       4000h    FFFFFFFFh
+7FFAA90768E0h times             5h      0       4000h    FFFFFFFFh
+7FFAA90768F8h title             5h      2h      3201h    68h      
+7FFAA9076910h top               3h      0       2000h    FFFFFFFFh
+7FFAA9076928h topmargin         9h      0       2000h    FFFFFFFFh
+7FFAA9076940h tr                2h      4h      1E11h    69h      
+7FFAA9076958h trade             5h      0       4000h    FFFFFFFFh
+7FFAA9076970h tt                2h      1h      1005h    6Ah      
+7FFAA9076988h type              4h      0       2000h    FFFFFFFFh
+7FFAA90769A0h u                 1h      1h      1007h    6Bh      
+7FFAA90769B8h uArr              4h      0       4000h    FFFFFFFFh
+7FFAA90769D0h uacute            6h      0       4000h    FFFFFFFFh
+7FFAA90769E8h uarr              4h      0       4000h    FFFFFFFFh
+7FFAA9076A00h ucirc             5h      0       4000h    FFFFFFFFh
+7FFAA9076A18h ugrave            6h      0       4000h    FFFFFFFFh
+7FFAA9076A30h ul                2h      5h      1511h    6Ch      
+7FFAA9076A48h uml               3h      0       4000h    FFFFFFFFh
+7FFAA9076A60h upsih             5h      0       4000h    FFFFFFFFh
+7FFAA9076A78h upsilon           7h      0       4000h    FFFFFFFFh
+7FFAA9076A90h usemap            6h      0       2000h    FFFFFFFFh
+7FFAA9076AA8h uuml              4h      0       4000h    FFFFFFFFh
+7FFAA9076AC0h v:dpi             5h      0       2080h    FFFFFFFFh
+7FFAA9076AD8h v:shape           7h      0       2080h    FFFFFFFFh
+7FFAA9076AF0h v:shapes          8h      0       2080h    FFFFFFFFh
+7FFAA9076B08h v:src             5h      0       20C0h    FFFFFFFFh
+7FFAA9076B20h valign            6h      0       2000h    FFFFFFFFh
+7FFAA9076B38h value             5h      0       2000h    FFFFFFFFh
+7FFAA9076B50h valuetype         9h      0       2000h    FFFFFFFFh
+7FFAA9076B68h var               3h      1h      1005h    6Dh      
+7FFAA9076B80h vlink             5h      0       2000h    FFFFFFFFh
+7FFAA9076B98h volume            6h      0       2000h    FFFFFFFFh
+7FFAA9076BB0h vspace            6h      0       2000h    FFFFFFFFh
+7FFAA9076BC8h wbr               3h      1h      1000h    6Eh      
+7FFAA9076BE0h weierp            6h      0       4000h    FFFFFFFFh
+7FFAA9076BF8h wide              4h      0       2000h    FFFFFFFFh
+7FFAA9076C10h width             5h      0       2000h    FFFFFFFFh
+7FFAA9076C28h wrap              4h      0       2000h    FFFFFFFFh
+7FFAA9076C40h x:arrayrange      Ch      0       2080h    FFFFFFFFh
+7FFAA9076C58h x:autofilter      Ch      0       2080h    FFFFFFFFh
+7FFAA9076C70h x:autofilterrange 11h     0       2080h    FFFFFFFFh
+7FFAA9076C88h x:autofiltervalue 11h     0       2080h    FFFFFFFFh
+7FFAA9076CA0h x:bool            6h      0       2080h    FFFFFFFFh
+7FFAA9076CB8h x:collectionid    Eh      0       2080h    FFFFFFFFh
+7FFAA9076CD0h x:err             5h      0       2080h    FFFFFFFFh
+7FFAA9076CE8h x:fmla            6h      0       2080h    FFFFFFFFh
+7FFAA9076D00h x:num             5h      0       2080h    FFFFFFFFh
+7FFAA9076D18h x:publishsource   Fh      0       2080h    FFFFFFFFh
+7FFAA9076D30h x:str             5h      0       2080h    FFFFFFFFh
+7FFAA9076D48h x:val             5h      0       2080h    FFFFFFFFh
+7FFAA9076D60h xi                2h      0       4000h    FFFFFFFFh
+7FFAA9076D78h xml               3h      1h      31011h   6Fh      
+7FFAA9076D90h xml:namespace     Dh      2h      31000h   70h      
+7FFAA9076DA8h xmp               3h      1h      1105h    71h      
+7FFAA9076DC0h yacute            6h      0       4000h    FFFFFFFFh
+7FFAA9076DD8h yen               3h      0       4000h    FFFFFFFFh
+7FFAA9076DF0h yuml              4h      0       4000h    FFFFFFFFh
+7FFAA9076E08h zeta              4h      0       4000h    FFFFFFFFh
+7FFAA9076E20h zwj               3h      0       4000h    FFFFFFFFh
+7FFAA9076E38h zwnj              4h      0       4000h    FFFFFFFFh
+
+
+WWLIB TAGS
+active
+activeRecord
+activeWritingStyle
+addressFieldName
+adjustLineHeightInTable
+adjustRightInd
+aliases
+alignBordersAndEdges
+alignTablesRowByRow
+allowPNG
+altName
+alwaysMergeEmptyNamespace
+alwaysShowPlaceholderText
+annotationRef
+applet
+appletText
+applyBreakingRules
+args
+asianLayout
+attachedTemplate
+autoFormatOverride
+autoHyphenation
+autoRedefine
+autoSpaceDE
+autoSpaceDN
+autoSpaceLikeWord95
+b
+background
+balanceSingleByteDoubleByteWidth
+bar
+basedOn
+bcs
+bdr
+between
+bgPict
+bidi
+bidiVisual
+binData
+blockQuote
+body
+bodyDiv
+bookFoldPrinting
+bookFoldPrintingSheets
+bookFoldRevPrinting
+bordersDontSurroundFooter
+bordersDontSurroundHeader
+bottom
+br
+breakWrappedTables
+cantSplit
+caps
+cfChunk
+characterSpacingControl
+charset
+checkErrors
+clickAndTypeStyle
+cnfStyle
+col
+colDelim
+color
+cols
+column
+compat
+connectString
+consecutiveHyphenLimit
+contextualSpacing
+continuationSeparator
+convMailMergeEsc
+cr
+cs
+dataSource
+dataType
+defaultFonts
+defaultSQL
+defaultTableStyle
+defaultTabStop
+delInstrText
+delText
+destination
+displayBackgroundShape
+displayHorizontalDrawingGridEvery
+displayVerticalDrawingGridEvery
+div
+divBdr
+divId
+divs
+divsChild
+docGrid
+docOleData
+docPr
+docSuppData
+documentProtection
+documentType
+docVar
+docVars
+doNotEmbedSystemFonts
+doNotExpandShiftReturn
+doNotHyphenateCaps
+doNotLeaveBackslashAlone
+doNotOrganizeInFolder
+doNotRelyOnCSS
+doNotSaveWebPagesAsSingleFile
+doNotShadeFormData
+doNotSuppressBlankLines
+doNotUnderlineInvalidXML
+doNotUseHTMLParagraphAutoSpacing
+doNotUseLongFileNames
+dontAllowFieldEndSelect
+dontDisplayPageBoundaries
+dontGrowAutofit
+drawingGridHorizontalOrigin
+drawingGridHorizontalSpacing
+drawingGridVerticalOrigin
+drawingGridVerticalSpacing
+dstrike
+dynamicAddress
+effect
+em
+embedTrueTypeFonts
+emboss
+endnote
+endnotePr
+endnoteRef
+evenAndOddHeaders
+family
+fHdr
+fieldMapData
+filter
+fitText
+flatBorders
+fldChar
+fldData
+fldSimple
+font
+fonts
+footnote
+footnoteLayoutLikeWW8
+footnotePr
+footnoteRef
+forgetLastTabAlignment
+formProt
+formsDesign
+frame
+frameLayout
+framePr
+frameset
+framesetSplitbar
+ftr
+gridAfter
+gridBefore
+gridCol
+gridSpan
+gutterAtTop
+hash
+hdr
+hdrShapeDefaults
+headerSource
+hidden
+hideGrammaticalErrors
+hideSpellingErrors
+highlight
+hlink
+hmerge
+hps
+hpsBaseText
+hpsRaise
+hyphen
+hyphenationZone
+i
+ics
+ignoreElements
+ignoreMixedContent
+ignoreSubtree
+ilfo
+ilfoMacAtCleanup
+ilst
+ilvl
+imprint
+ind
+insideH
+insideV
+instrText
+isLgl
+jc
+jdsoType
+keepLines
+keepNext
+kern
+kinsoku
+lang
+language
+latentStyles
+layoutRawTableWidth
+layoutTableRowsApart
+left
+legacy
+lid
+lineWrapLikeWord6
+link
+linkedToFile
+linkStyles
+linkToQuery
+list
+listDef
+listPicBullet
+listPr
+lists
+listStyleLink
+lnNumType
+locked
+lsdException
+lsid
+lvl
+lvlJc
+lvlOverride
+lvlPicBulletId
+lvlRestart
+lvlText
+mailAsAttachment
+mailMerge
+mailSubject
+mainDocumentType
+mappedName
+marBottom
+marH
+marLeft
+marRight
+marTop
+marW
+mirrorMargins
+movie
+msAccessHTML
+mwSmallCaps
+name
+next
+nfc
+noBorder
+noBreakHyphen
+noColumnBalance
+noEndnote
+noExtraLineSpacing
+noLeading
+noLineBreaksAfter
+noLineBreaksBefore
+noProof
+noResizeAllowed
+noSpaceRaiseLower
+noTabHangInd
+notTrueType
+noWrap
+numFmt
+numRestart
+numStart
+ocx
+odso
+optimizeForBrowser
+origWordTableRules
+outline
+outlineLvl
+overflowPunct
+p
+pageBreakBefore
+panose1
+paperSrc
+pBdr
+permEnd
+permStart
+personal
+personalCompose
+personalReply
+pgBorders
+pgMar
+pgNum
+pgNumType
+pgSz
+pict
+pitch
+pixelsPerInch
+plt
+pos
+position
+pPr
+printBodyTextBeforeHeader
+printColBlack
+printFormsData
+printFractionalCharacterWidth
+printPostScriptOverText
+printTwoOnOne
+proofErr
+proofState
+pStyle
+punctuationKerning
+query
+r
+recipientData
+relyOnVML
+removePersonalInformation
+removeWordSchemaOnSave
+revisionView
+rFonts
+right
+rPr
+rsid
+rStyle
+rt
+rtl
+rtlGutter
+ruby
+rubyAlign
+rubyBase
+rubyPr
+saveFormsData
+saveInvalidXML
+savePreviewPicture
+saveSubsetFonts
+saveThroughXSLT
+scriptAnchor
+scriptId
+scriptText
+scrollbar
+sectPr
+semiHidden
+separator
+shadow
+shapeDefaults
+shapeLayoutLikeWW8
+shd
+showBreaksInFrames
+showEnvelope
+showXMLTags
+sig
+smallCaps
+snapToGrid
+snapToGridInCell
+softHyphen
+sort
+sourceFileName
+spaceForUL
+spacing
+spacingInWholePoints
+specVanish
+src
+start
+startOverride
+sti
+strictFirstAndLastChars
+strike
+style
+styleLink
+stylePaneFormatFilter
+styles
+subDoc
+subFontBySize
+suff
+summaryLength
+suppressAutoHyphens
+suppressBottomSpacing
+suppressOverlap
+suppressSpBfAfterPgBrk
+suppressTopSpacing
+suppressTopSpacingMac5
+suppressTopSpacingWP
+supressLineNumbers
+swapBordersFacingPages
+sym
+sz
+szcs
+t
+tab
+table
+tabs
+targetScreenSz
+tbl
+tblBorders
+tblCellMar
+tblCellSpacing
+tblGrid
+tblHeader
+tblInd
+tblLayout
+tblLook
+tblOverlap
+tblpPr
+tblPr
+tblPrEx
+tblRtl
+tblStyle
+tblStyleColBandSize
+tblStylePr
+tblStyleRowBandSize
+tblW
+tc
+tcBorders
+tcFitText
+tcMar
+tcPr
+tcW
+textAlignment
+textDirection
+textFlow
+titlePg
+tl2br
+tmpl
+top
+topLinePunct
+tr
+tr2bl
+trackRevisions
+transparentMetafiles
+trHeight
+trPr
+truncateFontHeight
+txbxContent
+type
+u
+udl
+ulTrailSpace
+uniqueTag
+useAsianBreakRules
+useFELayout
+useMarginsForDrawingGridOrigin
+usePrinterMetrics
+useWord2002TableStyleRules
+useWord97LineBreakingRules
+useXSLTWhenSaving
+validateAgainstSchema
+vAlign
+vanish
+versionOfBuiltInStylenames
+vertAlign
+view
+viewMergedData
+vmerge
+w
+wAfter
+wBefore
+webHidden
+webPageEncoding
+widowControl
+wordDocument
+wordWrap
+wpJustification
+wpSpaceWidth
+wrapTextWithPunct
+wrapTrailSpaces
+ww6BorderRules
+zoom
+
+
+NS MSO
+urn:schemas-microsoft-com:vml													v		
+urn:schemas-microsoft-com:office:office											o		
+urn:schemas-microsoft-com:office:word											w		
+urn:schemas-microsoft-com:office:excel											x		
+urn:schemas-microsoft-com:office:powerpoint										p		
+urn:schemas-microsoft-com:office:access											a		
+uuid:C2F41010-65B3-11d1-A29F-00AA00C14882										dt		
+uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882										s		
+urn:schemas-microsoft-com:rowset												rs		
+RowsetSchema																	z		
+urn:schemas-microsoft-com:office:publisher										b		
+urn:schemas-microsoft-com:office:spreadsheet									ss		
+urn:schemas-microsoft-com:office:component:spreadsheet							c		
+urn:schemas-microsoft-com:office:odc											odc		
+urn:schemas-microsoft-com:office:activation										oa		
+http://www.w3.org/TR/REC-html40													html		
+http://schemas.xmlsoap.org/soap/envelope/										q		
+http://microsoft.com/officenet/conferencing										rtc		
+DAV:																			D		
+http://schemas.microsoft.com/repl/												Repl		
+http://schemas.microsoft.com/sharepoint/soap/meetings/							mt		
+http://schemas.microsoft.com/office/excel/2003/xml								x2		
+http://www.passport.com/NameSpace.xsd											ppda		
+http://schemas.microsoft.com/sharepoint/soap/ois/								ois		
+http://schemas.microsoft.com/sharepoint/soap/directory/							dir		
+http://www.w3.org/2000/09/xmldsig#												ds		
+http://schemas.microsoft.com/sharepoint/dsp										dsp		
+http://schemas.microsoft.com/data/udc											udc		
+http://www.w3.org/2001/XMLSchema												xsd		
+http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts						sub		
+http://www.w3.org/2001/04/xmlenc#												ec		
+http://schemas.microsoft.com/sharepoint/										sp		
+http://schemas.microsoft.com/sharepoint/soap/									sps		
+http://www.w3.org/2001/XMLSchema-instance										xsi		
+http://schemas.microsoft.com/data/udc/soap										udcs		
+http://schemas.microsoft.com/data/udc/xmlfile									udcxf		
+http://schemas.microsoft.com/data/udc/parttopart 								udcp2p		
+http://schemas.microsoft.com/sharepoint/soap/workflow/							wf		
+http://schemas.microsoft.com/office/2006/digsig-setup							dsss		
+http://schemas.microsoft.com/office/2006/digsig									dssi		
+http://schemas.openxmlformats.org/package/2006/digital-signature				mdssi		
+http://schemas.openxmlformats.org/markup-compatibility/2006						mver		
+http://schemas.microsoft.com/office/2004/12/omml								m		
+http://schemas.openxmlformats.org/package/2006/relationships					mrels	
+http://microsoft.com/sharepoint/webpartpages									spwp		
+http://schemas.microsoft.com/exchange/services/2006/types						ex12t		
+http://schemas.microsoft.com/exchange/services/2006/messages					ex12m		
+http://schemas.microsoft.com/sharepoint/soap/SlideLibrary/						pptsl		
+http://microsoft.com/webservices/SharePointPortalServer/PublishedLinksService	spsl		
+urn:schemas-microsoft-com:														Z		
+http://schemas.microsoft.com/sharepoint/taxonomy/soap/							tax		
+http://schemas.microsoft.com/sharepoint/soap/recordsrepository/					tns		
+http://microsoft.com/webservices/SharePointPortalServer/SocialDataService		spsd		
+http://officelive.com/															olw		
+http://schemas.microsoft.com/sharepoint/soap/EAWorkflow/						eawf		
+http://microsoft.com/webservices/SharePointPortalServer/UserProfileService		spsup		
+http://schemas.microsoft.com/clouddocuments										sd		
+http://schemas.microsoft.com/sharepoint/claims/									claims		
+http://www.w3.org/1998/Math/MathML												mml		
+http://www.w3.org/2005/08/addressing/											wsa		
+																				st		
+																				css		
+																				xml		
+ NS WWLIB
+http://schemas.microsoft.com/aml/2001/core									aml
+http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas			wpc
+uuid:C2F41010-65B3-11d1-A29F-00AA00C14882									dt
+http://schemas.microsoft.com/office/2006/xmlPackage							pkg
+http://schemas.openxmlformats.org/markup-compatibility/2006					mc
+urn:oasis:names:tc:opendocument:xmlns:animation:1.0							anim
+urn:oasis:names:tc:opendocument:xmlns:chart:1.0								chart
+urn:oasis:names:tc:opendocument:xmlns:config:1.0							config
+urn:oasis:names:tc:opendocument:xmlns:database:1.0							db
+http://purl.org/dc/elements/1.1/											dc
+urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0								dr3d
+urn:oasis:names:tc:opendocument:xmlns:drawing:1.0							draw
+urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0					fo
+urn:oasis:names:tc:opendocument:xmlns:form:1.0								form
+http://www.w3.org/2003/g/data-view#											grddl
+http://www.w3.org/1998/Math/MathML											math
+urn:oasis:names:tc:opendocument:xmlns:meta:1.0								meta
+urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0							number
+urn:oasis:names:tc:opendocument:xmlns:office:1.0							office
+urn:oasis:names:tc:opendocument:xmlns:presentation:1.0						presentation
+urn:oasis:names:tc:opendocument:xmlns:script:1.0							script
+urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0					smil
+urn:oasis:names:tc:opendocument:xmlns:style:1.0								style
+urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0					svg
+urn:oasis:names:tc:opendocument:xmlns:table:1.0								table
+urn:oasis:names:tc:opendocument:xmlns:text:1.0								text
+http://www.w3.org/2002/xforms												xforms
+http://www.w3.org/1999/xhtml												xhtml
+http://www.w3.org/1999/xlink												xlink
+urn:schemas-microsoft-com:office:office										o
+http://schemas.openxmlformats.org/officeDocument/2006/relationships			r
+http://purl.oclc.org/ooxml/officeDocument/relationships						rStrict
+http://schemas.openxmlformats.org/officeDocument/2006/math					m
+http://purl.oclc.org/ooxml/officeDocument/math								mStrict
+urn:schemas-microsoft-com:vml												v
+http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing			wp14
+http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing		wp
+http://purl.oclc.org/ooxml/drawingml/wordprocessingDrawing					wpStrict
+urn:schemas-microsoft-com:office:word										w10
+http://schemas.microsoft.com/office/word/2003/wordml						w11
+http://schemas.openxmlformats.org/wordprocessingml/2006/2/main				w12b1tr
+http://schemas.openxmlformats.org/wordprocessingml/2006/5/main				w12b2fr1
+http://schemas.openxmlformats.org/wordprocessingml/2006/6/main				w12b2fr2
+http://schemas.microsoft.com/office/word/2005/10/wordml						w12b1
+http://schemas.openxmlformats.org/wordprocessingml/2006/3/main				w12b2
+http://schemas.openxmlformats.org/wordprocessingml/2006/main				w12
+http://purl.oclc.org/ooxml/wordprocessingml/main							w12Strict
+http://schemas.microsoft.com/office/word/2005/11/1/wordml					w12fr1
+http://schemas.microsoft.com/office/word/2005/12/wordml						w12fr2
+http://schemas.microsoft.com/office/word/2006/1/wordml						w12fr3
+http://schemas.microsoft.com/office/word/2010/wordml						w14cur
+word14Doc																	w14
+http://schemas.microsoft.com/office/word/2010/11/wordml						w15b1
+http://schemas.microsoft.com/office/word/2012/wordml						w15cur
+word15Doc																	w15
+http://schemas.microsoft.com/office/word/2003/auxHint						wx
+wordDoc																		w
+http://schemas.microsoft.com/office/word/2010/wordprocessingGroup			wpg
+http://schemas.microsoft.com/office/word/2010/wordprocessingInk				wpi
+http://schemas.microsoft.com/office/word/2006/wordml						wne
+http://schemas.microsoft.com/office/word/2010/wordprocessingShape			wps
+http://schemas.microsoft.com/office/word/2003/wordml/sp2					wsp
+http://www.w3.org/XML/1998/namespace										xml
+XsdLib																		sl
+http://schemas.microsoft.com/schemaLibrary/2003/core						sl11
+http://schemas.openxmlformats.org/schemaLibrary/2006/main					sl12
+

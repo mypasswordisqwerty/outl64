@@ -1,0 +1,12 @@
+From: {m[from]}
+To: {m[to]}
+Subject: {m[subject]}
+Date: {m[date]}
+MIME-Version: 1.0
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Disposition: attachment; filename="winmail.dat"
+Content-Transfer-Encoding: base64
+X-MS-TNEF-Correlator: 00000000D5E1AF7238176847BDACBB79F473A780A4835E19
+
+{m[file__exp.tnef__base64]}
+
